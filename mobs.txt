@@ -25,10 +25,10 @@ Mobs/ant_queen/Name=蚁后
 Mobs/ant_queen/Description=如果她在追你，你肯定是做了什么坏事。
 
 Mobs/ant_hole/Name=蚁穴
-Mobs/ant_hole/Description=蚂蚁进进又出出，不太好解释。
+Mobs/ant_hole/Description=蚂蚁进进又出出，这根本无法解释。
 
 Mobs/beetle/Name=甲虫
-Mobs/beetle/Description=它饿了，花朵是它最喜欢的食物。
+Mobs/beetle/Description=它饿了，而花是它最喜欢的食物。
 
 Mobs/hornet/Name=黄蜂
 Mobs/hornet/Description=不像小蜜蜂那么友善。

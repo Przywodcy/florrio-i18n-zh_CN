@@ -22,19 +22,19 @@ Talents/crafting_ultra/Description={#Talents/crafting/Description}
 Talents/crafting_super/Name={#Talents/crafting/Name}
 Talents/crafting_super/Description={#Talents/crafting/Description}
 
-Talents/inventory6/Name=物品栏
+Talents/inventory6/Name=槽位
 Talents/inventory6/Description=启用第6个槽位来装备花瓣。
 
-Talents/inventory7/Name=物品栏
+Talents/inventory7/Name=槽位
 Talents/inventory7/Description=启用第7个槽位来装备花瓣。
 
-Talents/inventory8/Name=物品栏
+Talents/inventory8/Name=槽位
 Talents/inventory8/Description=启用第8个槽位来装备花瓣。
 
-Talents/inventory9/Name=物品栏
+Talents/inventory9/Name=槽位
 Talents/inventory9/Description=启用第9个槽位来装备花瓣。
 
-Talents/inventory10/Name=物品栏
+Talents/inventory10/Name=槽位
 Talents/inventory10/Description=启用第10个槽位来装备花瓣。
 
 Talents/health/Name=生命
