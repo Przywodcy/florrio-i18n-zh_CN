@@ -1,223 +1,296 @@
-Mobs/rock/Name=Rock
-Mobs/rock/Description=A rock. It doesn't do much.
-Mobs/rock/Spawn=Something mountain-like appears in the distance...
+Mobs/rock/Name=岩石
+Mobs/rock/Description=一块石头，干不了什么事情。
+Mobs/rock/Spawn=花草之上，隐约浮现出一座如山峦般的巨物……
 
-Mobs/cactus/Name=Cactus
-Mobs/cactus/Description=Avoid touching it, it hurts.
-Mobs/cactus/Spawn=A tower of thorns rises from the sands...
+Mobs/cactus/Name=仙人掌
+Mobs/cactus/Description=不要碰，它的刺很疼。
+Mobs/cactus/Spawn=沙海之中，一座荆棘塔拔地而起破土擎天……
 
-Mobs/ladybug/Name=Ladybug
-Mobs/ladybug/Description=Cute and harmless.
+Mobs/ladybug/Name=瓢虫
+Mobs/ladybug/Description=可爱而无害。
 
-Mobs/bee/Name=Bee
-Mobs/bee/Description=It stings. Don't touch it.
+Mobs/bee/Name=蜜蜂
+Mobs/bee/Description=会蜇人，别碰它。
 
-Mobs/ant_baby/Name=Baby Ant
-Mobs/ant_baby/Description=Weak and defenseless, but big dreams.
+Mobs/ant_baby/Name=幼蚁
+Mobs/ant_baby/Description=虽软弱无力，却有远大的梦想。
 
-Mobs/ant_worker/Name=Worker Ant
-Mobs/ant_worker/Description=It's a bit temperamental, probably from working all the time.
+Mobs/ant_worker/Name=工蚁
+Mobs/ant_worker/Description=脾气有点暴躁，可能是一直在工作的缘故。
 
-Mobs/ant_soldier/Name=Soldier Ant
-Mobs/ant_soldier/Description=It's got wings and it's ready to use them.
+Mobs/ant_soldier/Name=兵蚁
+Mobs/ant_soldier/Description=有一双翅膀并随时准备使用它们。
 
-Mobs/ant_queen/Name=Queen Ant
-Mobs/ant_queen/Description=You must have done something really bad if she's chasing you.
+Mobs/ant_queen/Name=蚁后
+Mobs/ant_queen/Description=如果她在追你，你肯定是做了什么坏事。
 
-Mobs/ant_hole/Name=Ant Hole
-Mobs/ant_hole/Description=Ants go in, and come out. Can't explain that.
+Mobs/ant_hole/Name=蚁穴
+Mobs/ant_hole/Description=蚂蚁进进又出出，不太好解释。
 
-Mobs/beetle/Name=Beetle
-Mobs/beetle/Description=It's hungry and flowers are its favorite meal.
+Mobs/beetle/Name=甲虫
+Mobs/beetle/Description=它饿了，花朵是它最喜欢的食物。
 
-Mobs/hornet/Name=Hornet
-Mobs/hornet/Description=These aren't quite as nice as the little bees.
-Mobs/hornet/Spawn=A big yellow spot shows up in the distance...
+Mobs/hornet/Name=黄蜂
+Mobs/hornet/Description=不像小蜜蜂那么友善。
+Mobs/hornet/Spawn=天空之上，一抹耀眼的金黄斑痕赫然跃出……
 
-Mobs/centipede/Name=Centipede
-Mobs/centipede/Description=It's just there doing its thing.
+Mobs/centipede/Name=蜈蚣
+Mobs/centipede/Description=它只是在那里做自己的事情。
 
-Mobs/centipede_body/Name=Centipede
-Mobs/centipede_body/Description=It's just there doing its thing.
+Mobs/centipede_body/Name=蜈蚣
+Mobs/centipede_body/Description=它只是在那里做自己的事情。
 
-Mobs/centipede_evil/Name=Centipede
-Mobs/centipede_evil/Description=This one loves flowers.
+Mobs/centipede_evil/Name=蜈蚣
+Mobs/centipede_evil/Description=很爱吃花朵。
 
-Mobs/centipede_evil_body/Name=Centipede
-Mobs/centipede_evil_body/Description=This one loves flowers.
+Mobs/centipede_evil_body/Name=蜈蚣
+Mobs/centipede_evil_body/Description=很爱吃花朵。
 
-Mobs/centipede_desert/Name=Centipede
-Mobs/centipede_desert/Description=Gotta go fast.
+Mobs/centipede_desert/Name=蜈蚣
+Mobs/centipede_desert/Description=要加速了。
 
-Mobs/centipede_desert_body/Name=Centipede
-Mobs/centipede_desert_body/Description=Gotta go fast.
+Mobs/centipede_desert_body/Name=蜈蚣
+Mobs/centipede_desert_body/Description=要加速了。
 
-Mobs/square/Name=Square
-Mobs/square/Description=This shape... it looks familiar...
+Mobs/square/Name=正方形
+Mobs/square/Description=这个形状……看起来很熟悉……
 
-Mobs/ladybug_dark/Name=Ladybug
-Mobs/ladybug_dark/Description=Cute and harmless... if left unprovoked.
+Mobs/ladybug_dark/Name=瓢虫
+Mobs/ladybug_dark/Description=可爱而无害……如果不打扰它的话。
 
-Mobs/ladybug_shiny/Name=Ladybug
-Mobs/ladybug_shiny/Description=Shiny, cute and mostly harmless.
+Mobs/ladybug_shiny/Name=瓢虫
+Mobs/ladybug_shiny/Description=亮闪闪，可爱，基本无害。
 
-Mobs/spider/Name=Spider
-Mobs/spider/Description=Spooky.
+Mobs/spider/Name=蜘蛛
+Mobs/spider/Description=吓人。
 
-Mobs/scorpion/Name=Scorpion
-Mobs/scorpion/Description=IT STINGS!
+Mobs/scorpion/Name=蝎子
+Mobs/scorpion/Description=它！会！蜇！人！
 
-Mobs/fire_ant_soldier/Name=Soldier Fire Ant
-Mobs/fire_ant_soldier/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_soldier/Name=火兵蚁
+Mobs/fire_ant_soldier/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
 
-Mobs/fire_ant_burrow/Name=Fire Ant Burrow
-Mobs/fire_ant_burrow/Description=What could be in here?
+Mobs/fire_ant_burrow/Name=火蚁穴
+Mobs/fire_ant_burrow/Description=里面会有什么呢？
 
-Mobs/sandstorm/Name=Sandstorm
-Mobs/sandstorm/Description=Darude (1999)
+Mobs/sandstorm/Name=沙尘暴
+Mobs/sandstorm/Description=达鲁德（1999年）
 
-Mobs/bubble/Name=Bubble
-Mobs/bubble/Description=Pop
+Mobs/bubble/Name=泡泡
+Mobs/bubble/Description=“啵”
 
-Mobs/bumble_bee/Name=Bumble Bee
-Mobs/bumble_bee/Description=GOTTA RUN.
+Mobs/bumble_bee/Name=熊蜂
+Mobs/bumble_bee/Description=要 跑 起 来 了 ！
 
-Mobs/shell/Name=Shell
-Mobs/shell/Description=Not an advertisement.
+Mobs/shell/Name=扇贝
+Mobs/shell/Description=这可不是那个广告牌。
 
-Mobs/starfish/Name=Starfish
-Mobs/starfish/Description=His name is Patrick.
+Mobs/starfish/Name=海星
+Mobs/starfish/Description=它的名字叫派大星。
 
-Mobs/crab/Name=Crab
-Mobs/crab/Description=Mr. Crab.
+Mobs/crab/Name=螃蟹
+Mobs/crab/Description=蟹老板。
 
-Mobs/jellyfish/Name=Jellyfish
-Mobs/jellyfish/Description=Makes the most delicious jam.
-Mobs/jellyfish/Spawn=You hear lightning strikes coming from a far distance...
+Mobs/jellyfish/Name=水母
+Mobs/jellyfish/Description=用来做最美味的果酱。
+Mobs/jellyfish/Spawn=日光之下，深邃的海底滚滚传来阵阵的雷鸣……
 
-Mobs/digger/Name=Digger
-Mobs/digger/Description=Wrong game, bud.
+Mobs/digger/Name=挖掘者
+Mobs/digger/Description=兄弟，走错游戏了。
 
-Mobs/sponge/Name=Sponge
-Mobs/sponge/Description=Bob.
+Mobs/sponge/Name=海绵
+Mobs/sponge/Description=海绵-宝宝
 
-Mobs/leech/Name=Leech
-Mobs/leech/Description=Slurp slurp.
+Mobs/leech/Name=水蛭
+Mobs/leech/Description=吸溜吸溜。
 
-Mobs/leech_body/Name=Leech
-Mobs/leech_body/Description=Slurp slurp.
+Mobs/leech_body/Name=水蛭
+Mobs/leech_body/Description=吸溜吸溜。
 
-Mobs/dandelion/Name=Dandelion
-Mobs/dandelion/Description=Puffy.
+Mobs/dandelion/Name=蒲公英
+Mobs/dandelion/Description=蓬松。
 
-Mobs/fire_ant_baby/Name=Baby Fire Ant
-Mobs/fire_ant_baby/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_baby/Name=火幼蚁
+Mobs/fire_ant_baby/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
 
-Mobs/fire_ant_worker/Name=Worker Fire Ant
-Mobs/fire_ant_worker/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_worker/Name=火工蚁
+Mobs/fire_ant_worker/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
 
-Mobs/fire_ant_queen/Name=Queen Fire Ant
-Mobs/fire_ant_queen/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_queen/Name=火蚁后
+Mobs/fire_ant_queen/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
 
-Mobs/ant_egg/Name=Ant Egg
-Mobs/ant_egg/Description=Not yet an ant but perhaps soon.
+Mobs/ant_egg/Name=蚁卵
+Mobs/ant_egg/Description=还不是一只蚂蚁，但是可能快了。
 
-Mobs/fire_ant_egg/Name=Fire Ant Egg
-Mobs/fire_ant_egg/Description=This ant is not yet on fire.
+Mobs/fire_ant_egg/Name=火蚁卵
+Mobs/fire_ant_egg/Description=这只蚂蚁暂时还没火。
 
-Mobs/fly/Name=Fly
-Mobs/fly/Description=Hzzzzzzzzzzzz.
+Mobs/fly/Name=苍蝇
+Mobs/fly/Description=嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡
 
-Mobs/leafbug/Name=Leafbug
-Mobs/leafbug/Description=It's not a leaf, but it is a bug.
+Mobs/leafbug/Name=叶虫
+Mobs/leafbug/Description=它不是一片树叶，是一只虫子。
 
-Mobs/mantis/Name=Mantis
-Mobs/mantis/Description=You better pray you don't become dinner.
+Mobs/mantis/Name=螳螂
+Mobs/mantis/Description=你最好祈祷不成为它的晚餐。
 
-Mobs/termite_baby/Name=Baby Termite
-Mobs/termite_baby/Description=Weak and defenseless, but big dreams.<n/>These creatures appear to be connected somehow.
+Mobs/termite_baby/Name=白幼蚁
+Mobs/termite_baby/Description=虽软弱无力，却有远大的梦想。<n/>这些生物通过某种方式被连接了起来。
 
-Mobs/termite_worker/Name=Worker Termite
-Mobs/termite_worker/Description=It's a bit temperamental, probably from working all the time.<n/>These creatures appear to be connected somehow.
+Mobs/termite_worker/Name=白工蚁
+Mobs/termite_worker/Description=脾气有点暴躁，可能是一直在工作的缘故。<n/>这些生物通过某种方式被连接了起来。
 
-Mobs/termite_soldier/Name=Soldier Termite
-Mobs/termite_soldier/Description=It's got wings and it's ready to use them.<n/>These creatures appear to be connected somehow.
+Mobs/termite_soldier/Name=白兵蚁
+Mobs/termite_soldier/Description=有一双翅膀并随时准备使用它们。<n/>这些生物通过某种方式被连接了起来。。
 
-Mobs/termite_overmind/Name=Termite Overmind
-Mobs/termite_overmind/Description=The one who oversees all.
+Mobs/termite_overmind/Name=白蚁主宰者
+Mobs/termite_overmind/Description=运筹帷幄之中。
 
-Mobs/termite_mound/Name=Termite Mound
-Mobs/termite_mound/Description=Termites go in, and come out. Can't explain that.
+Mobs/termite_mound/Name=白蚁丘
+Mobs/termite_mound/Description=白蚁进进又出出，这根本无法解释。
 
-Mobs/termite_egg/Name=Termite Egg
-Mobs/termite_egg/Description=Not yet a termite but perhaps soon.
+Mobs/termite_egg/Name=白蚁卵
+Mobs/termite_egg/Description=还不是一只白蚁，但是可能快了。
 
-Mobs/bush/Name=Bush
-Mobs/bush/Description=Don't misunderestimate me.
+Mobs/bush/Name=灌木丛
+Mobs/bush/Description=可别小看我。
 
-Mobs/roach/Name=Roach
-Mobs/roach/Description=Gotta go FAST... until they get tired.
+Mobs/roach/Name=蟑螂
+Mobs/roach/Description=要 加 速 了……直到它累了。
 
-Mobs/moth/Name=Moth
-Mobs/moth/Description=Easily scared, be nice.
-
-Mobs/firefly/Name=Firefly
-Mobs/firefly/Description=Oooooh shiny.
-Mobs/firefly/Spawn=There's a bright light in the horizon...
-
-Mobs/beetle_hel/Name=Beetle
-Mobs/beetle_hel/Description=Scourge that spawns in the other plane.
-Mobs/beetle_hel/Spawn=You sense ominous vibrations coming from a different realm...
-
-Mobs/wasp/Name=Wasp
-Mobs/wasp/Description=They are ANGRY.
-
-Mobs/dummy/Name=Target Dummy
-Mobs/dummy/Description=How do you have this in your gallery?
-
-Mobs/spider_hel/Name=Spider
-Mobs/spider_hel/Description=Scourge that spawns in the other plane.
-Mobs/spider_hel/Spawn=You sense ominous vibrations coming from a different realm...
-
-Mobs/centipede_hel/Name=Centipede
-Mobs/centipede_hel/Description=Scourge that spawns in the other plane.
-Mobs/centipede_hel/Spawn=You sense ominous vibrations coming from a different realm...
-
-Mobs/centipede_hel_body/Name=Centipede
-Mobs/centipede_hel_body/Description=Scourge that spawns in the other plane.
-Mobs/centipede_hel_body/Spawn=You sense ominous vibrations coming from a different realm...
-
-Mobs/wasp_hel/Name=Wasp
-Mobs/wasp_hel/Description=Scourge that spawns in the other plane.
-Mobs/wasp_hel/Spawn=You sense ominous vibrations coming from a different realm...
-
-Mobs/trader/Name=Trader
-
-Mobs/gambler/Name=Gambler
-Mobs/gambler/Description=This can happen to YOU.
-Mobs/gambler/Spawn=You hear someone whisper faintly... "just... one more game..."
-
-Mobs/oracle/Name=Oracle
-
-Mobs/firefly_magic/Name=Firefly
-Mobs/firefly_magic/Description=There's something magical about this one.
-
-Mobs/titan/Name=Titan
-
-Mobs/beetle_nazar/Name=Beetle
-Mobs/beetle_nazar/Description=This one has a different pattern... what does that mean?
-
-Mobs/worm/Name=Worm
-Mobs/worm/Description=It's supposed to eat dirt but this one's eating flowers.
-
-Mobs/worm_guts/Name=Worm guts
-Mobs/worm_guts/Description=You're not supposed to see this text. I'm calling the police.
-
-Mobs/mecha_flower/Name=Mecha Flower
-Mobs/mecha_flower/Description=Someone has been making these mechanical flowers... What could this mean?
-
-Mobs/wasp_mecha/Name=Wasp
-Mobs/wasp_mecha/Description=They're MECHA ANGRY.
-
-Mobs/spider_mecha/Name=Spider
-Mobs/spider_mecha/Description=Mecha Spooky.
+Mobs/moth/Name=飞蛾
+Mobs/moth/Description=容易受惊，请对它们好点。
+
+Mobs/firefly/Name=萤火虫
+Mobs/firefly/Description=呜呜呜哦好闪亮。
+Mobs/firefly/Spawn=地平线上，一道明亮的黄色光芒刺破夜幕……
+
+Mobs/beetle_hel/Name=甲虫
+Mobs/beetle_hel/Description=在异域诞生的亡灵。
+Mobs/beetle_hel/Spawn=大地之下，位面之间，异界的不祥波动悄然涌来……
+
+Mobs/wasp/Name=胡蜂
+Mobs/wasp/Description=它们 生 气 了。
+
+Mobs/dummy/Name=训练假人
+Mobs/dummy/Description=它怎么跑到你的图鉴里的？
+
+Mobs/spider_hel/Name=蜘蛛
+Mobs/spider_hel/Description=在异域诞生的亡灵。
+Mobs/spider_hel/Spawn=大地之下，位面之间，异界的不祥波动悄然涌来……
+
+Mobs/centipede_hel/Name=蜈蚣
+Mobs/centipede_hel/Description=在异域诞生的亡灵。
+Mobs/centipede_hel/Spawn=大地之下，位面之间，异界的不祥波动悄然涌来……
+
+Mobs/centipede_hel_body/Name=蜈蚣
+Mobs/centipede_hel_body/Description=在异域诞生的亡灵。
+Mobs/centipede_hel_body/Spawn=大地之下，位面之间，异界的不祥波动悄然涌来……
+
+Mobs/wasp_hel/Name=胡蜂
+Mobs/wasp_hel/Description=在异域诞生的亡灵。
+Mobs/wasp_hel/Spawn=大地之下，位面之间，异界的不祥波动悄然涌来……
+
+Mobs/trader/Name=商人
+
+Mobs/gambler/Name=赌徒
+Mobs/gambler/Description=<s val="1.5">你</s>也有可能变成这样。
+Mobs/gambler/Spawn=耳畔旁，微微回荡着不知源头的飘渺呢喃…… “就……再来一局吧……”
+
+Mobs/oracle/Name=神谕者
+
+Mobs/firefly_magic/Name=萤火虫
+Mobs/firefly_magic/Description=这只萤火虫有一种神奇的魔力。
+
+Mobs/titan/Name=泰坦
+
+Mobs/beetle_nazar/Name=甲虫
+Mobs/beetle_nazar/Description=它有一个不一样的图案……这是什么意思？
+
+Mobs/worm/Name=蠕虫
+Mobs/worm/Description=蠕虫本应吃土，它却吃花朵。
+
+Mobs/worm_guts/Name=蠕虫内脏
+Mobs/worm_guts/Description=你不应该看到这个文本，我要报警了！
+
+Mobs/mecha_flower/Name=机械花
+Mobs/mecha_flower/Description=有些人一直在制作这些机械的花朵……这意味着什么？
+
+Mobs/wasp_mecha/Name=机械胡蜂
+Mobs/wasp_mecha/Description=它们生 机 器（气）了。
+
+Mobs/spider_mecha/Name=机械蜘蛛
+Mobs/spider_mecha/Description=吓人的机器。
+
+Mobs/rock/Py=yanshi
+Mobs/cactus/Py=xianrenzhang
+Mobs/ladybug/Py=piaochong
+Mobs/bee/Py=mifeng
+Mobs/ant_baby/Py=youyi
+Mobs/ant_worker/Py=gongyi
+Mobs/ant_soldier/Py=bingyi
+Mobs/ant_queen/Py=yihou
+Mobs/ant_hole/Py=yixue
+Mobs/beetle/Py=jiachong
+Mobs/hornet/Py=huangfeng
+Mobs/centipede/Py=wugong
+Mobs/centipede_body/Py=wugong
+Mobs/centipede_evil/Py=wugong
+Mobs/centipede_evil_body/Py=wugong
+Mobs/centipede_desert/Py=wugong
+Mobs/centipede_desert_body/Py=wugong
+Mobs/square/Py=zhengfangxing
+Mobs/ladybug_dark/Py=piaochong
+Mobs/ladybug_shiny/Py=piaochong
+Mobs/spider/Py=zhizhu
+Mobs/scorpion/Py=xiezi
+Mobs/fire_ant_soldier/Py=huobingyi
+Mobs/fire_ant_burrow/Py=huoyixue
+Mobs/sandstorm/Py=shachenbao
+Mobs/bubble/Py=paopao
+Mobs/bumble_bee/Py=xiongfeng
+Mobs/shell/Py=shanbei
+Mobs/starfish/Py=haixing
+Mobs/crab/Py=pangxie
+Mobs/jellyfish/Py=shuimu
+Mobs/digger/Py=wajuezhe
+Mobs/sponge/Py=haimian
+Mobs/leech/Py=shuizhi
+Mobs/leech_body/Py=shuizhi
+Mobs/dandelion/Py=pugongying
+Mobs/fire_ant_baby/Py=huoyouyi
+Mobs/fire_ant_worker/Py=huogongyi
+Mobs/fire_ant_queen/Py=huoyihou
+Mobs/ant_egg/Py=yiluan
+Mobs/fire_ant_egg/Py=huoyiluan
+Mobs/fly/Py=cangying
+Mobs/leafbug/Py=yechong
+Mobs/mantis/Py=tanglang
+Mobs/termite_baby/Py=baiyouyi
+Mobs/termite_worker/Py=baigongyi
+Mobs/termite_soldier/Py=baibingyi
+Mobs/termite_overmind/Py=baiyizhuzaizhe
+Mobs/termite_mound/Py=baiyiqiu
+Mobs/termite_egg/Py=baiyiluan
+Mobs/bush/Py=guanmucong
+Mobs/roach/Py=zhanglang
+Mobs/moth/Py=feie
+Mobs/firefly/Py=yinghuochong
+Mobs/beetle_hel/Py=jiachong
+Mobs/wasp/Py=hufeng
+Mobs/dummy/Py=xunlianjiaren
+Mobs/spider_hel/Py=zhizhu
+Mobs/centipede_hel/Py=wugong
+Mobs/centipede_hel_body/Py=wugong
+Mobs/wasp_hel/Py=hufeng
+Mobs/trader/Py=shangren
+Mobs/gambler/Py=dutu
+Mobs/oracle/Py=shenyuzhe
+Mobs/firefly_magic/Py=yinghuochong
+Mobs/titan/Py=taitan
+Mobs/beetle_nazar/Py=jiachong
+Mobs/worm/Py=ruchong
+Mobs/worm_guts/Py=ruchongneizang
+Mobs/mecha_flower/Py=jixiehua
+Mobs/wasp_mecha/Py=jixiehufeng
+Mobs/spider_mecha/Py=jixiezhizhu

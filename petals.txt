@@ -1,387 +1,485 @@
-Petals/basic/Name=Basic
-Petals/basic/FullName=Basic
-Petals/basic/Description=A nice petal, not too strong but not too weak.
-
-Petals/light/Name=Light
-Petals/light/FullName=Light
-Petals/light/Description=Weaker than most petals, but recharges very quickly.
-
-Petals/rock/Name=Rock
-Petals/rock/FullName=Rock
-Petals/rock/Description=Extremely durable, but takes a bit longer to recharge.
-
-Petals/square/Name=Square
-Petals/square/FullName=Square
-Petals/square/Description=This shape... it looks familiar...
-
-Petals/rose/Name=Rose
-Petals/rose/FullName=Rose
-Petals/rose/Description=Its healing properties are amazing. Not so good at combat though.
-
-Petals/stinger/Name=Stinger
-Petals/stinger/FullName=Stinger
-Petals/stinger/Description=It really hurts, but it's very fragile.
-
-Petals/iris/Name=Iris
-Petals/iris/FullName=Iris
-Petals/iris/Description=Very poisonous, but takes a little while to do its work.<n/>-50% damage vs other flowers.
-
-Petals/wing/Name=Wing
-Petals/wing/FullName=Wing
-Petals/wing/Description=It comes and goes.
-
-Petals/missile/Name=Missile
-Petals/missile/FullName=Missile
-Petals/missile/Description=You can actually shoot this one.
-
-Petals/grapes/Name=Grapes
-Petals/grapes/FullName=Grapes
-Petals/grapes/Description=It goes poof. Now with a secret ingredient: poison.
-
-Petals/cactus/Name=Cactus
-Petals/cactus/FullName=Cactus
-Petals/cactus/Description=Not very strong, but somehow increases your maximum health.
-
-Petals/faster/Name=Faster
-Petals/faster/FullName=Faster
-Petals/faster/Description=It's so light it makes your other petals spin faster.
-
-Petals/bubble/Name=Bubble
-Petals/bubble/FullName=Bubble
-Petals/bubble/Description=Physics are for the weak.
-
-Petals/pollen/Name=Pollen
-Petals/pollen/FullName=Pollen
-Petals/pollen/Description=Asthmatics beware.
-
-Petals/dandelion/Name=Dandelion
-Petals/dandelion/FullName=Dandelion
-Petals/dandelion/Description=Its interesting properties inhibits healing effects on affected units.<n/>Affected units have their healing reduced by 20%. Stacks with itself.
-
-Petals/beetle_egg/Name=Egg
-Petals/beetle_egg/FullName=Beetle Egg
-Petals/beetle_egg/Description=Something interesting might pop out of this.
-
-Petals/antennae/Name=Antennae
-Petals/antennae/FullName=Antennae
-Petals/antennae/Description=Allows your flower to sense foes farther away.
-
-Petals/heavy/Name=Heavy
-Petals/heavy/FullName=Heavy
-Petals/heavy/Description=This thing is so heavy that nothing gets in the way.<n/>Slows down petal rotation speed when equipped.
-
-Petals/yin_yang/Name=Yin Yang
-Petals/yin_yang/FullName=Yin Yang
-Petals/yin_yang/Description=This mysterious petal affects the rotation of your petals in unpredictable ways.
-
-Petals/web/Name=Web
-Petals/web/FullName=Web
-Petals/web/Description=It's really sticky.
-
-Petals/honey/Name=Honey
-Petals/honey/FullName=Honey
-Petals/honey/Description=Mobs love this. Attracts them in a large radius.<n/>Mobs will prioritize this over flowers.<n/>Affected units develop immunity to its effects after some time.
-
-Petals/leaf/Name=Leaf
-Petals/leaf/FullName=Leaf
-Petals/leaf/Description=Gathers energy from the sun to heal your flower passively.
-
-Petals/salt/Name=Salt
-Petals/salt/FullName=Salt
-Petals/salt/Description=Reflects some of the damage you take back to the enemy that dealt it.<n/>Higher rarity mobs have higher resistance to damage reflection.
-
-Petals/rice/Name=Rice
-Petals/rice/FullName=Rice
-Petals/rice/Description=Spawns very quickly, but not very strong.
-
-Petals/corn/Name=Corn
-Petals/corn/FullName=Corn
-Petals/corn/Description=Takes a long time to spawn, but has a lot of health.
-
-Petals/sand/Name=Sand
-Petals/sand/FullName=Sand
-Petals/sand/Description=A bunch of sand particles.
-
-Petals/pincer/Name=Pincer
-Petals/pincer/FullName=Pincer
-Petals/pincer/Description=Debilitates enemies temporarily, reducing their movement speed.
-
-Petals/yucca/Name=Yucca
-Petals/yucca/FullName=Yucca
-Petals/yucca/Description=Heals your flower but only while in the defensive position.
-
-Petals/magnet/Name=Magnet
-Petals/magnet/FullName=Magnet
-Petals/magnet/Description=Increases drop pick up range.
-
-Petals/yggdrasil/Name=Yggdrasil
-Petals/yggdrasil/FullName=Yggdrasil
-Petals/yggdrasil/Description=A dried leaf from the Yggdrasil tree.<n/>Rumored to be able to bring the fallen back to life.
-
-Petals/starfish/Name=Starfish
-Petals/starfish/FullName=Starfish
-Petals/starfish/Description=Increases health regen while below 75% health.
-
-Petals/pearl/Name=Pearl
-Petals/pearl/FullName=Pearl
-Petals/pearl/Description=Just drop it off somewhere and use your kinetic powers so you don't lose it.
-
-Petals/lightning/Name=Lightning
-Petals/lightning/FullName=Lightning
-Petals/lightning/Description=Strikes several nearby enemies.
-
-Petals/jelly/Name=Jelly
-Petals/jelly/FullName=Jelly
-Petals/jelly/Description=No one likes touching this.
-
-Petals/claw/Name=Claw
-Petals/claw/FullName=Claw
-Petals/claw/Description=Deals extra damage if the victim is above 80% health.<n/>-50% damage vs other flowers.
-
-Petals/shell/Name=Shell
-Petals/shell/FullName=Shell
-Petals/shell/Description=Adds a temporary shield to yourself or allies.
-
-Petals/cutter/Name=Cutter
-Petals/cutter/FullName=Cutter
-Petals/cutter/Description=A friend used to own this... now it's time for revenge.<n/>Increases body damage.
-
-Petals/dahlia/Name=Dahlia
-Petals/dahlia/FullName=Dahlia
-Petals/dahlia/Description=A small amount of heal but fairly consistent.
-
-Petals/uranium/Name=Uranium
-Petals/uranium/FullName=Uranium
-Petals/uranium/Description=Periodically releases radiation.<n/>-75% damage versus other flowers.<n/>Effect strength depends on distance to petal.
-
-Petals/sponge/Name=Sponge
-Petals/sponge/FullName=Sponge
-Petals/sponge/Description=Spreads damage taken by the flower over a period of time.<n/>If destroyed, deals remaining damage all at once.<n/>Does not delay {#Attribute/PoisonNoColon} damage.
-
-Petals/soil/Name=Soil
-Petals/soil/FullName=Soil
-Petals/soil/Description=Increases health, but also increases flower size and decreases movement speed.
-
-Petals/fangs/Name=Fangs
-Petals/fangs/FullName=Fangs
-Petals/fangs/Description=Heals based on damage dealt by this petal.
-
-Petals/third_eye/Name=Third Eye
-Petals/third_eye/FullName=Third Eye
-Petals/third_eye/Description=Allows your flower to expand your petals further out.
-
-Petals/peas/Name=Peas
-Petals/peas/FullName=Peas
-Petals/peas/Description=It goes poof.
-
-Petals/stick/Name=Stick
-Petals/stick/FullName=Mysterious Stick
-Petals/stick/Description=A mysterious stick that summons the forces of the wind.
-
-Petals/clover/Name=Clover
-Petals/clover/FullName=Clover
-Petals/clover/Description=Increases your luck.<n/>Luck is used by specific petals to change their stats.
-
-Petals/powder/Name=Powder
-Petals/powder/FullName=Mysterious Powder
-Petals/powder/Description=Increases movement speed.<n/>Disabled if flower takes damage or if near a mob higher than a certain rarity.
-
-Petals/air/Name=Air
-Petals/air/FullName=Air
-Petals/air/Description=It's literally nothing.
-
-Petals/basil/Name=Basil
-Petals/basil/FullName=Basil
-Petals/basil/Description=Increases all healing received.
-
-Petals/orange/Name=Orange
-Petals/orange/FullName=Orange
-Petals/orange/Description=A sweet citrus fruit.
-
-Petals/ant_egg/Name=Egg
-Petals/ant_egg/FullName=Ant Egg
-Petals/ant_egg/Description=Something interesting might pop out of this.
-
-Petals/poo/Name=Poo
-Petals/poo/FullName=Poo
-Petals/poo/Description=Makes mobs less likely to want to attack you.
-
-Petals/relic/Name=Relic
-Petals/relic/FullName=Mysterious Relic
-Petals/relic/Description=A strange relic. Significantly increases maximum health.<n/>Damage taken is spread among other wearers.
-
-Petals/lotus/Name=Lotus
-Petals/lotus/FullName=Lotus
-Petals/lotus/Description=Absorbs poison damage taken by the flower.
-
-Petals/bulb/Name=Bulb
-Petals/bulb/FullName=Light Bulb
-Petals/bulb/Description=A shiny lightbulb. Draws aggro from mobs.
-
-Petals/cotton/Name=Cotton
-Petals/cotton/FullName=Cotton
-Petals/cotton/Description=Absorbs damage taken by the flower.
-
-Petals/carrot/Name=Carrot
-Petals/carrot/FullName=Carrot
-Petals/carrot/Description=Sturdy and reliable. Can be shot and bounces off walls.
-
-Petals/bone/Name=Bone
-Petals/bone/FullName=Bone
-Petals/bone/Description=Sturdy.
-
-Petals/plank/Name=Plank
-Petals/plank/FullName=Plank
-Petals/plank/Description=Does 20x damage vs projectiles and petals.
-
-Petals/tomato/Name=Tomato
-Petals/tomato/FullName=Tomato
-Petals/tomato/Description=Gets stronger over time.
-
-Petals/mark/Name=Mark
-Petals/mark/FullName=Dark Mark
-Petals/mark/Description=A dark mark that binds itself to a fallen soul.
-
-Petals/rubber/Name=Rubber
-Petals/rubber/FullName=Rubber
-Petals/rubber/Description=Increases knockback received. Also absorbs lightning damage dealt to the flower.
-
-Petals/blood_stinger/Name=Stinger
-Petals/blood_stinger/FullName=Blood Stinger
-Petals/blood_stinger/Description=It really hurts, but it's very fragile.<n/>Deals damage to self when spawned.
-
-Petals/bur/Name=Bur
-Petals/bur/FullName=Bur
-Petals/bur/Description=Decreases armor of affected unit. Does not stack with itself.
-
-Petals/root/Name=Root
-Petals/root/FullName=Root
-Petals/root/Description=Provides additional armor but only while in the defensive position.
-
-Petals/ankh/Name=Ankh
-Petals/ankh/FullName=Ankh
-Petals/ankh/Description=An ancient relic.<n/>When destroyed, will teleport the flower back to where it was destroyed.
-
-Petals/dice/Name=Dice
-Petals/dice/FullName=Dice
-Petals/dice/Description=Has a 5% chance of dealing 35x damage.<n/>Chance increases by 4% per point in luck.
-
-Petals/talisman/Name=Talisman
-Petals/talisman/FullName=Talisman of Evasion
-Petals/talisman/Description=A necklace that allows the wearer to anticipate enemy attacks.
-
-Petals/battery/Name=Battery
-Petals/battery/FullName=Battery
-Petals/battery/Description=Discharges electricity whenever the flower gets hit.
-
-Petals/amulet/Name=Amulet
-Petals/amulet/FullName=Amulet
-Petals/amulet/Description=Converts a percentage of overheal into shields.
-
-Petals/compass/Name=Compass
-Petals/compass/FullName=Compass
-Petals/compass/Description=This crappy thing might be able to find something interesting...
-
-Petals/disc/Name=Disc
-Petals/disc/FullName=Disc
-Petals/disc/Description=Reduces damage taken from collisions with mobs and flowers.
-
-Petals/shovel/Name=Shovel
-Petals/shovel/FullName=Shovel
-Petals/shovel/Description=Becomes untargetable but unable to use petals for a limited time.
-
-Petals/coin/Name=Coin
-Petals/coin/FullName=Coin
-Petals/coin/Description=The power of capitalism compels you!
-
-Petals/chip/Name=Chip
-Petals/chip/FullName=Poker Chip
-Petals/chip/Description=ALL IN.
-
-Petals/card/Name=Card
-Petals/card/FullName=Card
-Petals/card/Description=A playing card. Likely marked.
-
-Petals/moon/Name=Moon
-Petals/moon/FullName=Moon Rock
-Petals/moon/Description=This thing is so big your petals orbit it instead.<n/>Where did you find this anyway?
-
-Petals/privet/Name=Privet
-Petals/privet/FullName=Privet Berry
-Petals/privet/Description=Deals extra {#Attribute/PoisonNoColon} damage based on the existing {#Attribute/PoisonNoColon} damage per second.
-
-Petals/glass/Name=Glass
-Petals/glass/FullName=Glass
-Petals/glass/Description=Phases through enemies.<n/>Cannot damage enemies more often than a certain interval.
-
-Petals/corruption/Name=Corruption
-Petals/corruption/FullName=Corruption
-Petals/corruption/Description=Corrupts one's soul, turning them against their own kind.
-
-Petals/orb/Name=Orb
-Petals/orb/FullName=Mana Orb
-Petals/orb/Description=Creates mana.
-
-Petals/blueberries/Name=Blueberries
-Petals/blueberries/FullName=Blueberries
-Petals/blueberries/Description=It goes poof. Now with the extra secret ingredient: lightning.
-
-Petals/magic_cotton/Name=Cotton
-Petals/magic_cotton/FullName=Magic Cotton
-Petals/magic_cotton/Description=Absorbs damage taken by the flower.
-
-Petals/magic_stinger/Name=Stinger
-Petals/magic_stinger/FullName=Magic Stinger
-Petals/magic_stinger/Description=It really hurts, but it's very fragile.
-
-Petals/magic_leaf/Name=Leaf
-Petals/magic_leaf/FullName=Magic Leaf
-Petals/magic_leaf/Description=Gathers mana from the environment passively.
-
-Petals/magic_cactus/Name=Cactus
-Petals/magic_cactus/FullName=Magic Cactus
-Petals/magic_cactus/Description=Increases maximum mana capacity.
-
-Petals/magic_eye/Name=Magic Eye
-Petals/magic_eye/FullName=Magic Eye
-Petals/magic_eye/Description=Consumes half the current mana and deals damage based on that value.
-
-Petals/magic_missile/Name=Missile
-Petals/magic_missile/FullName=Magic Missile
-Petals/magic_missile/Description=You can actually shoot this one... with magic.
-
-Petals/magic_stick/Name=Stick
-Petals/magic_stick/FullName=Magic Stick
-Petals/magic_stick/Description=A mysterious stick that summons the forces of the wind... with magic.
-
-Petals/coral/Name=Coral
-Petals/coral/FullName=Coral
-Petals/coral/Description=Breaks apart on impact.<n/>Each piece has 50% of the stats of the predecessor.
-
-Petals/magic_bubble/Name=Bubble
-Petals/magic_bubble/FullName=Magic Bubble
-Petals/magic_bubble/Description=Physics are for the magicless.
-
-Petals/nazar/Name=Nazar
-Petals/nazar/FullName=Nazar Amulet
-Petals/nazar/Description=Reduces one damage instance damage by 98%.
-
-Petals/mimic/Name=Mimic
-Petals/mimic/FullName=Mimic
-Petals/mimic/Description=Copies the petal to the left of this, with the same rarity as this.
+Petals/basic/Name=基本
+Petals/basic/FullName=基本
+Petals/basic/Description=一个不错的花瓣，不是很强也不是很弱。
+
+Petals/light/Name=轻
+Petals/light/FullName=轻
+Petals/light/Description=比大多数花瓣弱，但冷却非常快。
+
+Petals/rock/Name=岩石
+Petals/rock/FullName=岩石
+Petals/rock/Description=极为耐用，但冷却时间稍长。
+
+Petals/square/Name=正方形
+Petals/square/FullName=正方形
+Petals/square/Description=这个形状……看起来很熟悉……
+
+Petals/rose/Name=玫瑰
+Petals/rose/FullName=玫瑰
+Petals/rose/Description=治疗属性非常惊人，战斗时差强人意。
+
+Petals/stinger/Name=刺
+Petals/stinger/FullName=刺
+Petals/stinger/Description=攻击很强，却十分脆弱。
+
+Petals/iris/Name=鸢尾
+Petals/iris/FullName=鸢尾
+Petals/iris/Description=它毒性很强，但需要一点时间才能发挥作用。<n/>对其他花朵造成的伤害减少50%。
+
+Petals/wing/Name=翅膀
+Petals/wing/FullName=翅膀
+Petals/wing/Description=来去如风。
+
+Petals/missile/Name=导弹
+Petals/missile/FullName=导弹
+Petals/missile/Description=你可以把它发射出去。
+
+Petals/grapes/Name=葡萄
+Petals/grapes/FullName=葡萄
+Petals/grapes/Description=“嘭”地爆开；现在有了一个额外的秘密成分：剧毒。
+
+Petals/cactus/Name=仙人掌
+Petals/cactus/FullName=仙人掌
+Petals/cactus/Description=它不是很强，但会增加你的生命值上限。
+
+Petals/faster/Name=更快
+Petals/faster/FullName=更快
+Petals/faster/Description=它太轻了，以至于你的花瓣会旋转得更快。
+
+Petals/bubble/Name=泡泡
+Petals/bubble/FullName=泡泡
+Petals/bubble/Description=弱者才会遵守物理定律。
+
+Petals/pollen/Name=花粉
+Petals/pollen/FullName=花粉
+Petals/pollen/Description=小心过敏。
+
+Petals/dandelion/Name=蒲公英
+Petals/dandelion/FullName=蒲公英
+Petals/dandelion/Description=它可以抑制生物的自身治疗效果，<n/>使受其影响的单位治疗量降低20%，效果可与自身叠加。
+
+Petals/beetle_egg/Name=卵
+Petals/beetle_egg/FullName=甲虫卵
+Petals/beetle_egg/Description=一些有趣的东西很有可能从中出现。
+
+Petals/antennae/Name=触角
+Petals/antennae/FullName=触角
+Petals/antennae/Description=允许你的花朵感知更远的敌人。
+
+Petals/heavy/Name=重
+Petals/heavy/FullName=重
+Petals/heavy/Description=这东西太重了，什么都挡不住它。<n/>装备后会降低花瓣的旋转速度。
+
+Petals/yin_yang/Name=阴阳
+Petals/yin_yang/FullName=阴阳
+Petals/yin_yang/Description=这个神秘的花瓣以不可预测的方式影响花瓣的旋转。
+
+Petals/web/Name=网
+Petals/web/FullName=网
+Petals/web/Description=它真的很黏。
+
+Petals/honey/Name=蜂蜜
+Petals/honey/FullName=蜂蜜
+Petals/honey/Description=生物很喜欢它，可以吸引大范围内的生物。<n/>生物会优先考虑它而非花朵们。<n/>生物在被影响一段时间后会对其效果产生免疫力。
+
+Petals/leaf/Name=叶子
+Petals/leaf/FullName=叶子
+Petals/leaf/Description=通过光合作用持续治疗你的花朵。
+
+Petals/salt/Name=盐
+Petals/salt/FullName=盐
+Petals/salt/Description=将部分你受到的伤害反弹给造成伤害的敌人。<n/>稀有度越高的生物对伤害反弹的抗性越高。
+
+Petals/rice/Name=大米
+Petals/rice/FullName=大米
+Petals/rice/Description=冷却速度很快，但不是很强。
+
+Petals/corn/Name=玉米
+Petals/corn/FullName=玉米
+Petals/corn/Description=冷却时间很长，但耐久很高。
+
+Petals/sand/Name=沙子
+Petals/sand/FullName=沙子
+Petals/sand/Description=一堆沙粒。
+
+Petals/pincer/Name=螫针
+Petals/pincer/FullName=螫针
+Petals/pincer/Description=可以使敌人暂时虚弱下来，降低他们的移动速度。
+
+Petals/yucca/Name=丝兰
+Petals/yucca/FullName=丝兰
+Petals/yucca/Description=仅在花朵处于防御状态时提供治疗。
+
+Petals/magnet/Name=磁铁
+Petals/magnet/FullName=磁铁
+Petals/magnet/Description=增加花朵的拾取范围。
+
+Petals/yggdrasil/Name=世界树
+Petals/yggdrasil/FullName=世界树之叶
+Petals/yggdrasil/Description=世界树上的一片枯叶。<n/>传说能使死去的人复活。
+
+Petals/starfish/Name=海星
+Petals/starfish/FullName=海星
+Petals/starfish/Description=发挥作用于花朵生命值低于75%时。
+
+Petals/pearl/Name=珍珠
+Petals/pearl/FullName=珍珠
+Petals/pearl/Description=把它扔掉，然后用你的神奇力量引导它。
+
+Petals/lightning/Name=闪电
+Petals/lightning/FullName=闪电
+Petals/lightning/Description=连锁攻击附近的多个敌人。
+
+Petals/jelly/Name=果冻
+Petals/jelly/FullName=果冻
+Petals/jelly/Description=没有生物会想碰它。
+
+Petals/claw/Name=爪子
+Petals/claw/FullName=爪子
+Petals/claw/Description=目标的生命值高于80%时造成额外伤害。<n/>对其他花朵造成的伤害减少50%。
+
+Petals/shell/Name=贝壳
+Petals/shell/FullName=贝壳
+Petals/shell/Description=为你或你的队友添加一个临时的护盾。
+
+Petals/cutter/Name=锯齿
+Petals/cutter/FullName=锯齿
+Petals/cutter/Description=一个朋友曾经拥有它……现在是时候复仇了。<n/>增加花朵的{#Flower/Attribute/BodyDamageNoColon}。
+
+Petals/dahlia/Name=大丽花
+Petals/dahlia/FullName=大丽花
+Petals/dahlia/Description=为你的花朵提供少量但相当稳定的治疗。
+
+Petals/uranium/Name=铀
+Petals/uranium/FullName=铀
+Petals/uranium/Description=能够周期性地辐射。<n/>对其他花朵造成的伤害减少75%。<n/>影响强度取决于目标与此花瓣的距离。
+
+Petals/sponge/Name=海绵
+Petals/sponge/FullName=海绵
+Petals/sponge/Description=在一段时间内将花朵受到的伤害分散开来。<n/>被摧毁时一次性返还剩余伤害给花朵。<n/>不可以延缓{#Attribute/PoisonNoColon}伤害。
+
+Petals/soil/Name=土
+Petals/soil/FullName=土
+Petals/soil/Description=增加花朵生命值，同时增加花朵的大小并降低移动速度。
+
+Petals/fangs/Name=尖牙
+Petals/fangs/FullName=尖牙
+Petals/fangs/Description=基于此花瓣造成的伤害提供治疗。
+
+Petals/third_eye/Name=第三只眼
+Petals/third_eye/FullName=第三只眼
+Petals/third_eye/Description=允许你的花朵将花瓣延伸得更远。
+
+Petals/peas/Name=豌豆
+Petals/peas/FullName=豌豆
+Petals/peas/Description=“嘭”地爆开。
+
+Petals/stick/Name=树枝
+Petals/stick/FullName=神秘的树枝
+Petals/stick/Description=神秘的树枝，能召唤风的力量。
+
+Petals/clover/Name=幸运草
+Petals/clover/FullName=幸运草
+Petals/clover/Description=增加花朵的{#Flower/Attribute/LuckNoColon}。<n/>运气可改变特定花瓣的数值。
+
+Petals/powder/Name=粉末
+Petals/powder/FullName=神秘的粉末
+Petals/powder/Description=增加花朵的移动速度。<n/>花朵受到伤害或靠近高于一定稀有度的生物时会失效。
+
+Petals/air/Name=空气
+Petals/air/FullName=空气
+Petals/air/Description=字面意思的什么也没有。
+
+Petals/basil/Name=罗勒
+Petals/basil/FullName=罗勒
+Petals/basil/Description=提高所有受到的治疗效果。
+
+Petals/orange/Name=橙子
+Petals/orange/FullName=橙子
+Petals/orange/Description=一种美味的柑橘类水果。
+
+Petals/ant_egg/Name=卵
+Petals/ant_egg/FullName=蚁卵
+Petals/ant_egg/Description=一些有趣的东西很有可能从中出现。
+
+Petals/poo/Name=便便
+Petals/poo/FullName=便便
+Petals/poo/Description=让其他生物不太愿意攻击你。
+
+Petals/relic/Name=遗物
+Petals/relic/FullName=神秘的遗物
+Petals/relic/Description=一件奇特的遗物，可显著提高花朵最大生命值。<n/>受到的伤害会分摊给其他佩戴的玩家。
+
+Petals/lotus/Name=莲花
+Petals/lotus/FullName=莲花
+Petals/lotus/Description=吸收花朵收到的{#Attribute/PoisonNoColon}伤害。
+
+Petals/bulb/Name=灯泡
+Petals/bulb/FullName=灯泡
+Petals/bulb/Description=闪亮的灯泡，吸引生物的攻击。
+
+Petals/cotton/Name=棉花
+Petals/cotton/FullName=棉花
+Petals/cotton/Description=吸收花朵收到的伤害。
+
+Petals/carrot/Name=胡萝卜
+Petals/carrot/FullName=胡萝卜
+Petals/carrot/Description=坚固，可靠。可以发射出去并从墙上反弹回来。
+
+Petals/bone/Name=骨头
+Petals/bone/FullName=骨头
+Petals/bone/Description=坚固又耐用。
+
+Petals/plank/Name=木板
+Petals/plank/FullName=木板
+Petals/plank/Description=对弹射物和花瓣造成20倍的伤害。
+
+Petals/tomato/Name=番茄
+Petals/tomato/FullName=番茄
+Petals/tomato/Description=随着时间的推移，会变得越来越强大。
+
+Petals/mark/Name=标记
+Petals/mark/FullName=暗黑标记
+Petals/mark/Description=黑暗的印记与堕落的灵魂紧紧相连。
+
+Petals/rubber/Name=橡胶
+Petals/rubber/FullName=橡胶
+Petals/rubber/Description=增加受到的击退效果，也能吸收对花朵造成的闪电伤害。
+
+Petals/blood_stinger/Name=刺
+Petals/blood_stinger/FullName=血刺
+Petals/blood_stinger/Description=攻击很强，却十分脆弱。<n/>生成时对花朵自身造成伤害。
+
+Petals/bur/Name=刺果
+Petals/bur/FullName=刺果
+Petals/bur/Description=降低目标单位的护甲值，效果不与自身叠加。
+
+Petals/root/Name=根
+Petals/root/FullName=根
+Petals/root/Description=仅在花朵处于防御状态时提供额外的护甲。
+
+Petals/ankh/Name=安卡
+Petals/ankh/FullName=安卡
+Petals/ankh/Description=一件古老的遗物。<n/>被摧毁后，会把花朵传送回它被摧毁的地方。
+
+Petals/dice/Name=骰子
+Petals/dice/FullName=骰子
+Petals/dice/Description=有5%的几率造成35倍的伤害<n/>每增加1点幸运值，暴击几率增加4%。
+
+Petals/talisman/Name=护符
+Petals/talisman/FullName=闪避护符
+Petals/talisman/Description=一条能让佩戴者闪避敌人攻击的神秘项链。
+
+Petals/battery/Name=电池
+Petals/battery/FullName=电池
+Petals/battery/Description=让你的花朵一触即电，充满电性。
+
+Petals/amulet/Name=护符
+Petals/amulet/FullName=护符
+Petals/amulet/Description=将一定比例的溢出的治疗量转化为护盾。
+
+Petals/compass/Name=指南针
+Petals/compass/FullName=指南针
+Petals/compass/Description=这个玩意也许可以找到一些有趣的东西……
+
+Petals/disc/Name=圆盘
+Petals/disc/FullName=圆盘
+Petals/disc/Description=减少来自其他生物和花朵的碰撞伤害。
+
+Petals/shovel/Name=铲子
+Petals/shovel/FullName=铲子
+Petals/shovel/Description=在一段时间内遁入地下，在此期间无法被攻击，但不能使用花瓣。
+
+Petals/coin/Name=硬币
+Petals/coin/FullName=硬币
+Petals/coin/Description=是乃金钱所迫！
+
+Petals/chip/Name=筹码
+Petals/chip/FullName=扑克筹码
+Petals/chip/Description=孤 注 一 掷。
+
+Petals/card/Name=纸牌
+Petals/card/FullName=纸牌
+Petals/card/Description=一张扑克牌。它似乎被动了手脚。
+
+Petals/moon/Name=月
+Petals/moon/FullName=月石
+Petals/moon/Description=这个东西大到能让你的其他花瓣围着它转。<n/>不过，你是在哪里找到它的？
+
+Petals/privet/Name=女贞
+Petals/privet/FullName=女贞子
+Petals/privet/Description=在已存在的{#Attribute/PoisonNoColon}伤害/秒的基础上造成额外的{#Attribute/PoisonNoColon}伤害。
+
+Petals/glass/Name=玻璃
+Petals/glass/FullName=玻璃
+Petals/glass/Description=相位穿梭，越过敌人。<n/>不能在一定间隔内更频繁地伤害敌人。
+
+Petals/corruption/Name=腐化
+Petals/corruption/FullName=腐化
+Petals/corruption/Description=腐蚀花朵的灵魂，堕落的自我让他们与同类为敌。
+
+Petals/orb/Name=球
+Petals/orb/FullName=魔法球
+Petals/orb/Description=创造魔力。
+
+Petals/blueberries/Name=蓝莓
+Petals/blueberries/FullName=蓝莓
+Petals/blueberries/Description=“嘭”地爆开；现在有了一个额外的秘密成分：闪电。
+
+Petals/magic_cotton/Name=棉花
+Petals/magic_cotton/FullName=魔法棉花
+Petals/magic_cotton/Description=吸收花朵受到的伤害。
+
+Petals/magic_stinger/Name=刺
+Petals/magic_stinger/FullName=魔法刺
+Petals/magic_stinger/Description=它打人真的很疼，但是却十分脆弱。
+
+Petals/magic_leaf/Name=叶子
+Petals/magic_leaf/FullName=魔法叶子
+Petals/magic_leaf/Description=从环境中收集能量，被动地为你的花朵提供魔力。
+
+Petals/magic_cactus/Name=仙人掌
+Petals/magic_cactus/FullName=魔法仙人掌
+Petals/magic_cactus/Description=提高你的最大魔力容量。
+
+Petals/magic_eye/Name=魔法之眼
+Petals/magic_eye/FullName=魔法之眼
+Petals/magic_eye/Description=消耗当前魔力值的一半并基于这个值造成伤害。
+
+Petals/magic_missile/Name=导弹
+Petals/magic_missile/FullName=魔法导弹
+Petals/magic_missile/Description=你可以将其发射出去……伴随着魔法。
+
+Petals/magic_stick/Name=树枝
+Petals/magic_stick/FullName=魔法树枝
+Petals/magic_stick/Description=充满魔力的树枝，能召唤风的力量。
+
+Petals/coral/Name=珊瑚
+Petals/coral/FullName=珊瑚
+Petals/coral/Description=撞击后分裂。<n/>每一片都有前身50%的属性。
+
+Petals/magic_bubble/Name=泡泡
+Petals/magic_bubble/FullName=魔法泡泡
+Petals/magic_bubble/Description=无魔法者才会遵守物理定律。
+
+Petals/nazar/Name=邪眼
+Petals/nazar/FullName=邪眼护符
+Petals/nazar/Description=将花朵受到的一次实际伤害降低98%。
+
+Petals/mimic/Name=拟态
+Petals/mimic/FullName=拟态
+Petals/mimic/Description=用与此花瓣相同的品质复制此花瓣左边的花瓣。
 
 Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
 Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
 Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity:is-unique}/Description}
 
-Petals/mjolnir/not-unique/Name=Fragment
-Petals/mjolnir/not-unique/FullName=Fragment
-Petals/mjolnir/not-unique/Description=Perhaps this could be used to forge something great?
+Petals/mjolnir/not-unique/Name=碎片
+Petals/mjolnir/not-unique/FullName=碎片
+Petals/mjolnir/not-unique/Description=也许这能锻造出一些神秘的东西？
 
-Petals/mjolnir/unique/Name=Mjölnir
-Petals/mjolnir/unique/FullName=Mjölnir
-Petals/mjolnir/unique/Description=Only the most powerful hammer in the universe.
+Petals/mjolnir/unique/Name=雷神之锤
+Petals/mjolnir/unique/FullName=雷神之捶
+Petals/mjolnir/unique/Description=整个宇宙中唯一最强大的锤子。
 	
-Petals/mecha_missile/Name=Missile
-Petals/mecha_missile/FullName=Mecha Missile
-Petals/mecha_missile/Description=Locked on.
+Petals/mecha_missile/Name=导弹
+Petals/mecha_missile/FullName=机械导弹
+Petals/mecha_missile/Description=锁定目标。
+
+Petals/basic/Py=jiben
+Petals/light/Py=qing
+Petals/rock/Py=yanshi
+Petals/square/Py=zhengfangxing
+Petals/rose/Py=meigui
+Petals/stinger/Py=ci
+Petals/iris/Py=yuanwei
+Petals/wing/Py=chibang
+Petals/missile/Py=daodan
+Petals/grapes/Py=putao
+Petals/cactus/Py=xianrenzhang
+Petals/faster/Py=gengkuai
+Petals/bubble/Py=paopao
+Petals/pollen/Py=huafen
+Petals/dandelion/Py=pugongying
+Petals/beetle_egg/Py=luan
+Petals/antennae/Py=chujiao
+Petals/heavy/Py=zhong
+Petals/yin_yang/Py=yinyang
+Petals/web/Py=wang
+Petals/honey/Py=fengmi
+Petals/leaf/Py=yezi
+Petals/salt/Py=yan
+Petals/rice/Py=dami
+Petals/corn/Py=yumi
+Petals/sand/Py=shazi
+Petals/pincer/Py=shizhen
+Petals/yucca/Py=silan
+Petals/magnet/Py=citie
+Petals/yggdrasil/Py=shijieshu
+Petals/starfish/Py=haixing
+Petals/pearl/Py=zhenzhu
+Petals/lightning/Py=shandian
+Petals/jelly/Py=guodong
+Petals/claw/Py=zhuazi
+Petals/shell/Py=beike
+Petals/cutter/Py=juchi
+Petals/dahlia/Py=dalihua
+Petals/uranium/Py=you
+Petals/sponge/Py=haimian
+Petals/soil/Py=tu
+Petals/fangs/Py=jianya
+Petals/third_eye/Py=disanzhiyan
+Petals/peas/Py=wandou
+Petals/stick/Py=shuzhi
+Petals/clover/Py=xingyuncao
+Petals/powder/Py=fenmo
+Petals/air/Py=kongqi
+Petals/basil/Py=luole
+Petals/orange/Py=chengzi
+Petals/ant_egg/Py=luan
+Petals/poo/Py=bianbian
+Petals/relic/Py=yiwu
+Petals/lotus/Py=lianhua
+Petals/bulb/Py=dengpao
+Petals/cotton/Py=mianhua
+Petals/carrot/Py=huluobo
+Petals/bone/Py=gutou
+Petals/plank/Py=muban
+Petals/tomato/Py=fanqie
+Petals/mark/Py=biaoji
+Petals/rubber/Py=xiangjiao
+Petals/blood_stinger/Py=ci
+Petals/bur/Py=ciguo
+Petals/root/Py=gen
+Petals/ankh/Py=anka
+Petals/dice/Py=touzi
+Petals/talisman/Py=hufu
+Petals/battery/Py=dianchi
+Petals/amulet/Py=hufu
+Petals/compass/Py=zhinanzhen
+Petals/disc/Py=yuanpan
+Petals/shovel/Py=chanzi
+Petals/coin/Py=yingbi
+Petals/chip/Py=chouma
+Petals/card/Py=zhipai
+Petals/moon/Py=yue
+Petals/privet/Py=nvzhen
+Petals/glass/Py=boli
+Petals/corruption/Py=fuhua
+Petals/orb/Py=qiu
+Petals/blueberries/Py=lanmei
+Petals/magic_cotton/Py=mianhua
+Petals/magic_stinger/Py=ci
+Petals/magic_leaf/Py=yezi
+Petals/magic_cactus/Py=xianrenzhang
+Petals/magic_eye/Py=mofazhiyan
+Petals/magic_missile/Py=daodan
+Petals/magic_stick/Py=shuzhi
+Petals/coral/Py=shanhu
+Petals/magic_bubble/Py=paopao
+Petals/nazar/Py=xieyan
+Petals/mimic/Py=nitai
+Petals/mjolnir/Py={#Petals/mjolnir/{0:rarity:is-unique}/Py}
+Petals/mjolnir/not-unique/Py=suipian
+Petals/mjolnir/unique/Py=leishenzhichui
+Petals/mecha_missile/Py=daodan
