@@ -93,7 +93,7 @@ Mobs/crab/Description=蟹老板。
 
 Mobs/jellyfish/Name=水母
 Mobs/jellyfish/Description=用来做最美味的果酱。
-Mobs/jellyfish/Spawn=日光之下，深邃的海底滚滚传来阵阵的雷鸣……
+Mobs/jellyfish/Spawn=浩淼海下，滚滚传来的雷鸣翻涌至上震破水面……
 
 Mobs/digger/Name=挖掘者
 Mobs/digger/Description=兄弟，走错游戏了。
