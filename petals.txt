@@ -336,7 +336,7 @@ Petals/magic_stinger/Description=攻击很强，却十分脆弱。
 
 Petals/magic_leaf/Name=叶子
 Petals/magic_leaf/FullName=魔法叶子
-Petals/magic_leaf/Description=从环境中收集能量，被动地为你的花朵提供魔力。
+Petals/magic_leaf/Description=从环境中收集能量为你的花朵提供魔力。
 
 Petals/magic_cactus/Name=仙人掌
 Petals/magic_cactus/FullName=魔法仙人掌
