@@ -5,7 +5,7 @@ Flower/Attribute/HealthNoColon=<c val="{#Colors/health}">花朵生命值</c>
 Flower/Attribute/BodyDamage=<c val="{#Colors/damage}">身体伤害：</c>{0:tooltip}
 Flower/Attribute/BodyDamageNoColon=<c val="{#Colors/damage}">身体伤害</c>
 Flower/Attribute/BodyPoison=<c val="{#Colors/poison}">身体剧毒：</c>{0:tooltip}（{1:tooltip}/秒）
-Flower/Attribute/LuckNoColon=<c val="{#Colors/generic}">运气</c>
+Flower/Attribute/LuckNoColon=<c val="{#Colors/generic}">幸运值</c>
 Flower/Attribute/RotationSpeedNoColon=<c val="{#Colors/generic}">旋转速度</c>
 Flower/Attribute/AttackRangeNoColon=<c val="{#Colors/generic}">攻击距离</c>
 Flower/Attribute/HealingNoColon=<c val="{#Colors/heal}">治疗</c>
@@ -35,7 +35,7 @@ Mob/Attribute/Swallows=<c val="{#Colors/generic}">吞咽</c>
 Mob/Attribute/ArmorDebuff=<c val="{#Colors/armor}">护甲减益：</c>{0:tooltip}
 Mob/Attribute/Lifesteal=<c val="{#Colors/heal}">吸血：</c>{0:tooltip}
 Mob/Attribute/Lightning=<c val="{#Colors/lightning}">闪电：</c>{0:tooltip}
-Mob/Attribute/Bounces=<c val="{#Colors/generic}">连锁：</c>{0:tooltip}
+Mob/Attribute/Bounces=<c val="{#Colors/generic}">反弹：</c>{0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">闪避：</c>{0:perc}%
 
 Petal/Attribute/Health=<c val="{#Colors/health}">耐久：</c>{0:tooltip}
@@ -62,7 +62,7 @@ Petal/Attribute/MaxMobRarity=<c val="{#Colors/generic}">最高生物稀有度：
 Petal/Attribute/DamageReflection=<c val="{#Colors/reflection}">伤害反弹：</c>{0:perc}%（对{#Rarities/{2}/NameColored}生物），{1:perc}%（对花朵）
 Petal/Attribute/PickUpRange=<c val="{#Colors/generic}">拾取范围：</c>+{0:tooltip}
 Petal/Attribute/Lightning=<c val="{#Colors/lightning}">闪电：</c>{0:tooltip}
-Petal/Attribute/Bounces=<c val="{#Colors/generic}">连锁：</c>{0:tooltip}
+Petal/Attribute/Bounces=<c val="{#Colors/generic}">反弹：</c>{0:tooltip}
 Petal/Attribute/Knockback=<c val="{#Colors/generic}">击退：</c>{0:tooltip}
 Petal/Attribute/ExtraDamage=<c val="{#Colors/damage}">额外伤害：</c>{0:tooltip}
 Petal/Attribute/Shield=<c val="{#Colors/generic}">护盾：</c>{0:tooltip}
@@ -74,7 +74,7 @@ Petal/Attribute/AttackRange=<c val="{#Colors/generic}">攻击距离：</c>+{0:to
 Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
 Petal/Attribute/Spawn1=<c val="{#Colors/generic}">生成：</c>{#Mobs/{1:base}/Name}（{#Rarities/{1:rarity}/NameColored}）
 Petal/Attribute/SpawnN=<c val="{#Colors/generic}">生成：</c>{0}个{#Mobs/{1:base}/Name}（{#Rarities/{1:rarity}/NameColored}）
-Petal/Attribute/Luck=<c val="{#Colors/generic}">运气：</c>+{0:tooltip}
+Petal/Attribute/Luck=<c val="{#Colors/generic}">幸运值：</c>+{0:tooltip}
 Petal/Attribute/MovementSpeed=<c val="{#Colors/generic}">移动速度：</c>+{0:perc}%
 Petal/Attribute/HealBonus=<c val="{#Colors/heal}">治疗增益：</c>+{0:perc}%
 Petal/Attribute/MobAggroRange=<c val="{#Colors/generic}">生物仇恨距离：</c>-{0:perc}%

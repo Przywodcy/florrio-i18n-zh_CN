@@ -120,7 +120,7 @@ Petals/yggdrasil/Description=世界树上的一片枯叶。<n/>传说能使死�
 
 Petals/starfish/Name=海星
 Petals/starfish/FullName=海星
-Petals/starfish/Description=发挥作用于花朵生命值低于75%时。
+Petals/starfish/Description=在花朵生命值低于75%时治疗花朵。
 
 Petals/pearl/Name=珍珠
 Petals/pearl/FullName=珍珠
@@ -180,7 +180,7 @@ Petals/stick/Description=神秘的树枝，能召唤风的力量。
 
 Petals/clover/Name=幸运草
 Petals/clover/FullName=幸运草
-Petals/clover/Description=增加花朵的{#Flower/Attribute/LuckNoColon}。<n/>运气可改变特定花瓣的数值。
+Petals/clover/Description=增加花朵的{#Flower/Attribute/LuckNoColon}。<n/>幸运值可改变特定花瓣的数值。
 
 Petals/powder/Name=粉末
 Petals/powder/FullName=神秘的粉末

@@ -64,8 +64,8 @@ Talents/health7/Description={#Talents/health/Description}
 Talents/health8/Name={#Talents/health/Name}
 Talents/health8/Description={#Talents/health/Description}
 
-Talents/luck/Name=运气
-Talents/luck/Description=提高{0:tooltip}的{#Flower/Attribute/LuckNoColon}。<n/>运气可改变特定花瓣的数值。
+Talents/luck/Name=幸运值
+Talents/luck/Description=提高{0:tooltip}的{#Flower/Attribute/LuckNoColon}。<n/>幸运值可改变特定花瓣的数值。
 
 Talents/luck1/Name={#Talents/luck/Name}
 Talents/luck1/Description={#Talents/luck/Description}
