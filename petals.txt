@@ -162,8 +162,8 @@ Petals/soil/Name=Soil
 Petals/soil/FullName=Soil
 Petals/soil/Description=Increases health, but also increases flower size and decreases movement speed.
 
-Petals/fangs/Name=Fangs
-Petals/fangs/FullName=Fangs
+Petals/fangs/Name=Fang
+Petals/fangs/FullName=Fang
 Petals/fangs/Description=Heals based on damage dealt by this petal.
 
 Petals/third_eye/Name=Third Eye
