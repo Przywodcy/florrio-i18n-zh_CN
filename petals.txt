@@ -312,7 +312,7 @@ Petals/privet/Description=在已存在的{#Attribute/PoisonNoColon}伤害/秒的
 
 Petals/glass/Name=玻璃
 Petals/glass/FullName=玻璃
-Petals/glass/Description=相位穿梭，越过敌人。能在穿越敌人时不被摧毁。<n/>不能在一定间隔内更频繁地伤害敌人。
+Petals/glass/Description=相位穿梭，越过敌人。能够在穿越敌人时不被摧毁。<n/>不能在一定间隔内更频繁地伤害敌人。
 
 Petals/corruption/Name=腐化
 Petals/corruption/FullName=腐化

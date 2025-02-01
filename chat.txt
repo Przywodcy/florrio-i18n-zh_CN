@@ -176,11 +176,11 @@ Chat/TargetDummy/Damaged/3=哔哔
 Chat/TargetDummy/Damaged/4=我是个机器人
 
 Chat/Gambler/Idle={#Chat/Gambler/Idle/{!rand:0:9}}
-Chat/Gambler/Idle/0=我 最 爱 赌 了
+Chat/Gambler/Idle/0=我 最 爱 赌 了！
 Chat/Gambler/Idle/1=21点赌桌在哪里？
 Chat/Gambler/Idle/2=老虎机在哪里？
 Chat/Gambler/Idle/3=99%的赌徒收手时离未获巨利仅一步之遥！
-Chat/Gambler/Idle/4=再开一局……
+Chat/Gambler/Idle/4=我只要再开一局……
 Chat/Gambler/Idle/5=我　全　押　了
 Chat/Gambler/Idle/6=我手气正旺
 Chat/Gambler/Idle/7=三七开鸿运
@@ -198,6 +198,6 @@ Chat/Titan/Idle/6=如创世匠之所愿
 Chat/Titan/Idle/7=阔步尘世
 
 Chat/Trader/Idle={#Chat/Trader/Idle/{!rand:0:2}}
-Chat/Trader/Idle/0=您有意做点小生意吗？
-Chat/Trader/Idle/1=我正在扩充存货品类……
-Chat/Trader/Idle/2=若您有货，我有资金。
+Chat/Trader/Idle/0=您有意跟我做点小生意吗？
+Chat/Trader/Idle/1=我正在扩充我的存货品类……
+Chat/Trader/Idle/2=如果您有货物，我可以用硬币来交易。
