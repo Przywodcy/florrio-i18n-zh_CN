@@ -117,7 +117,7 @@ UI/Shop/Button=商店
 UI/Shop/Instructions=今日特惠：
 UI/Shop/TimeLeft=商店会{0:timeLeft}换新
 UI/Shop/Lock=锁定
-UI/Shop/LockedChanged=取消锁定后，商店会立即改变。
+UI/Shop/LockedChanged=在取消锁定后，商店会立即改变。
 UI/Shop/LockedNoChange=锁定商店后，商店不会自行改变。
 UI/Shop/StarsHelp1=你可以通过完成挑战获得星星，或者你可以
 UI/Shop/StarsHelp2=点击右边的数字购买一些星星。
@@ -186,12 +186,12 @@ UI/Absorb/Instructions=吸收不同品质的花瓣可以获得不同数量的经
 UI/CoinCraft/Title=交易
 UI/CoinCraft/Button=交易
 UI/CoinCraft/Instructions=你可以给商人一片花瓣来换一枚同样品质的硬币。
-UI/CoinCraft/Delay=你可以{0:timeLeft}继续交易
+UI/CoinCraft/Delay=你可以{0:timeLeft}继续交易。
 
 UI/OracleCraft/Title=神谕
 UI/OracleCraft/Button=合成
 UI/OracleCraft/Instructions=神谕者会用一个合适的价格来保证一次合成的成功。
-UI/OracleCraft/Delay=你可以{0:timeLeft}继续合成
+UI/OracleCraft/Delay=你可以{0:timeLeft}继续合成。
 
 UI/Plinko/Title=弹珠游戏
 UI/Plinko/Auto=自动
@@ -199,7 +199,7 @@ UI/Plinko/Auto=自动
 UI/UniqueCraft/Title=锻造
 UI/UniqueCraft/Button=锻造
 UI/UniqueCraft/Instructions=一个唯一的花瓣将保存到另一个玩家锻造出相同的花瓣。<n/>此时将会返还您所消耗的超级花瓣，<n/>每锻造一次唯一花瓣，下一次锻造此唯一花瓣的成本就会增加。
-UI/UniqueCraft/NoSupers=您还没有任何超级花瓣可以尝试此操作。
+UI/UniqueCraft/NoSupers=你还没有任何超级花瓣可以尝试此操作。
 
 UI/Death/Poison=剧毒
 
