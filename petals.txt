@@ -364,7 +364,7 @@ Petals/magic_bubble/Description=无魔法者才会遵守物理定律。
 
 Petals/nazar/Name=邪眼
 Petals/nazar/FullName=邪眼护符
-Petals/nazar/Description=将花朵受到的一次实际伤害降低98%。
+Petals/nazar/Description=将花朵受到的一次伤害降低98%。
 
 Petals/mimic/Name=拟态
 Petals/mimic/FullName=拟态
@@ -380,7 +380,7 @@ Petals/mjolnir/not-unique/Description=也许这能锻造出一些神秘的东西
 
 Petals/mjolnir/unique/Name=雷神之锤
 Petals/mjolnir/unique/FullName=雷神之捶
-Petals/mjolnir/unique/Description=整个宇宙中唯一最强大的锤子。
+Petals/mjolnir/unique/Description=整个宇宙中最强大的锤子。
 	
 Petals/mecha_missile/Name=导弹
 Petals/mecha_missile/FullName=机械导弹
