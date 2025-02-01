@@ -198,19 +198,19 @@ Achievements/62/Name=痛魁祸首
 Achievements/62/Description=造成{0:tooltip}点伤害。
 
 Achievements/63/Name=一击致命
-Achievements/63/Description=一击消灭{#Rarities/{0}/Article}{#0Rarities/{0}/Name}生物。
+Achievements/63/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
 
 Achievements/64/Name=一击致命
-Achievements/64/Description=一击消灭{#Rarities/{0}/Article}{#0Rarities/{0}/Name}生物。
+Achievements/64/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
 
 Achievements/65/Name=一击致命
-Achievements/65/Description=一击消灭{#Rarities/{0}/Article}{#0Rarities/{0}/Name}生物。
+Achievements/65/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
 
 Achievements/66/Name=一击致命
-Achievements/66/Description=一击消灭{#Rarities/{0}/Article}{#0Rarities/{0}/Name}生物。
+Achievements/66/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
 
 Achievements/67/Name=一击致命
-Achievements/67/Description=一击消灭{#Rarities/{0}/Article}{#0Rarities/{0}/Name}生物。
+Achievements/67/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
 
 Achievements/68/Name=被晒黑了
 Achievements/68/Description=在冥界生存{0:time}。
