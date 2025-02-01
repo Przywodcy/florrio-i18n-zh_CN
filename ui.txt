@@ -121,11 +121,11 @@ UI/Shop/LockedChanged=取消锁定后，商店会立即改变。
 UI/Shop/LockedNoChange=锁定商店后，商店不会自行改变。
 UI/Shop/StarsHelp1=你可以通过完成挑战获得星星，或者你可以
 UI/Shop/StarsHelp2=点击右边的数字购买一些星星。
-UI/Shop/MustLink1=要进行任何购买，你必须首先
+UI/Shop/MustLink1=在购买星星之前，你必须首先
 UI/Shop/MustLink2=关联你的账户至Apple或Discord。
 UI/Shop/MustLinkCancel=取消
 UI/Shop/BuyStars/Instructions=如果对购买有任何问题，<n/>请通过邮件联系我们的支付处理商：<n/>support@xsolla.com或者在xsolla.com在线聊天。
-UI/Shop/BuyStars/Extra=我的钱太多了
+UI/Shop/BuyStars/Extra=我有比这多得多的钱
 UI/Shop/BuyStars/Cancel=取消
 UI/Shop/BuyPetal/Title=确定
 UI/Shop/BuyPetal/Instructions=确定要买此花瓣吗？<n/><c val="{#Colors/danger}">已购买的花瓣不支持退款</c>
