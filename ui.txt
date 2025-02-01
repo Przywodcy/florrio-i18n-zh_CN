@@ -56,6 +56,9 @@ UI/Chat/PromptClick=Click here to chat
 UI/Chat/PromptKeyboardOrClick=Press [ENTER] or click here to chat
 UI/Chat/Player/Block=Block
 UI/Chat/Player/ReportMessage=Report message
+UI/Chat/Player/Whisper=Whisper
+UI/Chat/Player/InviteToSquad=Invite to Squad
+UI/Chat/Player/InviteToGuild=Invite to Guild
 
 UI/Flower/Level=Lvl {0}
 
