@@ -141,7 +141,7 @@ Mobs/termite_worker/Name=白工蚁
 Mobs/termite_worker/Description=脾气有点暴躁，可能是一直在工作的缘故。<n/>这些生物通过某种方式被连接了起来。
 
 Mobs/termite_soldier/Name=白兵蚁
-Mobs/termite_soldier/Description=有一双翅膀并随时准备使用它们。<n/>这些生物通过某种方式被连接了起来。。
+Mobs/termite_soldier/Description=有一双翅膀并随时准备使用它们。<n/>这些生物通过某种方式被连接了起来。
 
 Mobs/termite_overmind/Name=白蚁主宰者
 Mobs/termite_overmind/Description=运筹帷幄之中。
