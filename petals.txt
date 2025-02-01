@@ -16,7 +16,7 @@ Petals/square/Description=这个形状……看起来很熟悉……
 
 Petals/rose/Name=玫瑰
 Petals/rose/FullName=玫瑰
-Petals/rose/Description=治疗属性非常惊人，战斗时差强人意。
+Petals/rose/Description=治疗属性非常惊人，战斗时却差强人意。
 
 Petals/stinger/Name=刺
 Petals/stinger/FullName=刺
@@ -124,7 +124,7 @@ Petals/starfish/Description=在花朵生命值低于75%时治疗花朵。
 
 Petals/pearl/Name=珍珠
 Petals/pearl/FullName=珍珠
-Petals/pearl/Description=把它扔掉，然后用你的神奇力量引导它。
+Petals/pearl/Description=把它扔掉，然后再用你的神奇力量引导它。
 
 Petals/lightning/Name=闪电
 Petals/lightning/FullName=闪电
@@ -132,11 +132,11 @@ Petals/lightning/Description=连锁攻击附近的多个敌人。
 
 Petals/jelly/Name=果冻
 Petals/jelly/FullName=果冻
-Petals/jelly/Description=没有生物会想碰它。
+Petals/jelly/Description=没有人会想碰它。
 
 Petals/claw/Name=爪子
 Petals/claw/FullName=爪子
-Petals/claw/Description=目标的生命值高于80%时造成额外伤害。<n/>对其他花朵造成的伤害减少50%。
+Petals/claw/Description=在目标的生命值高于80%时造成额外伤害。<n/>对其他花朵造成的伤害减少50%。
 
 Petals/shell/Name=贝壳
 Petals/shell/FullName=贝壳
@@ -152,15 +152,15 @@ Petals/dahlia/Description=为你的花朵提供少量但相当稳定的治疗。
 
 Petals/uranium/Name=铀
 Petals/uranium/FullName=铀
-Petals/uranium/Description=能够周期性地辐射。<n/>对其他花朵造成的伤害减少75%。<n/>影响强度取决于目标与此花瓣的距离。
+Petals/uranium/Description=它能够周期性地辐射。<n/>对其他花朵造成的伤害减少75%。<n/>影响强度取决于目标与此花瓣的距离。
 
 Petals/sponge/Name=海绵
 Petals/sponge/FullName=海绵
-Petals/sponge/Description=在一段时间内将花朵受到的伤害分散开来。<n/>被摧毁时一次性返还剩余伤害给花朵。<n/>不可以延缓{#Attribute/PoisonNoColon}伤害。
+Petals/sponge/Description=在一段时间内将花朵受到的伤害分散开来。<n/>被摧毁时一次性返还剩余伤害给花朵。<n/>无法延缓{#Attribute/PoisonNoColon}伤害。
 
 Petals/soil/Name=土
 Petals/soil/FullName=土
-Petals/soil/Description=增加花朵生命值，同时增加花朵的大小并降低移动速度。
+Petals/soil/Description=能够增加花朵生命值，同时增加花朵的大小并降低移动速度。
 
 Petals/fangs/Name=尖牙
 Petals/fangs/FullName=尖牙
@@ -232,7 +232,7 @@ Petals/bone/Description=坚固又耐用。
 
 Petals/plank/Name=木板
 Petals/plank/FullName=木板
-Petals/plank/Description=对弹射物和花瓣造成20倍的伤害。
+Petals/plank/Description=可以对弹射物和花瓣造成20倍伤害。
 
 Petals/tomato/Name=番茄
 Petals/tomato/FullName=番茄
@@ -252,7 +252,7 @@ Petals/blood_stinger/Description=攻击很强，却十分脆弱。<n/>生成时�
 
 Petals/bur/Name=刺果
 Petals/bur/FullName=刺果
-Petals/bur/Description=降低目标单位的护甲值，效果不与自身叠加。
+Petals/bur/Description=在一段时间内降低目标单位的护甲值，效果不与自身叠加。
 
 Petals/root/Name=根
 Petals/root/FullName=根
@@ -264,7 +264,7 @@ Petals/ankh/Description=一件古老的遗物。<n/>被摧毁后，会把花朵�
 
 Petals/dice/Name=骰子
 Petals/dice/FullName=骰子
-Petals/dice/Description=有5%的几率造成35倍的伤害<n/>每增加1点幸运值，暴击几率增加4%。
+Petals/dice/Description=有5%的几率造成35倍的伤害。<n/>每增加1点幸运值，暴击几率增加4%。
 
 Petals/talisman/Name=护符
 Petals/talisman/FullName=闪避护符
@@ -312,7 +312,7 @@ Petals/privet/Description=在已存在的{#Attribute/PoisonNoColon}伤害/秒的
 
 Petals/glass/Name=玻璃
 Petals/glass/FullName=玻璃
-Petals/glass/Description=相位穿梭，越过敌人。能够在穿越敌人时不被摧毁。<n/>不能在一定间隔内更频繁地伤害敌人。
+Petals/glass/Description=相位穿梭，越过敌人。能够在穿越敌人时不被摧毁。<n/>在一定间隔内只能伤害敌人一次。
 
 Petals/corruption/Name=腐化
 Petals/corruption/FullName=腐化
@@ -332,7 +332,7 @@ Petals/magic_cotton/Description=吸收花朵受到的伤害。
 
 Petals/magic_stinger/Name=刺
 Petals/magic_stinger/FullName=魔法刺
-Petals/magic_stinger/Description=它打人真的很疼，但是却十分脆弱。
+Petals/magic_stinger/Description=攻击很强，却十分脆弱。
 
 Petals/magic_leaf/Name=叶子
 Petals/magic_leaf/FullName=魔法叶子

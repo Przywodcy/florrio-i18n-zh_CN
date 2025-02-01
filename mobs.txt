@@ -132,7 +132,7 @@ Mobs/leafbug/Name=叶虫
 Mobs/leafbug/Description=它不是一片树叶，是一只虫子。
 
 Mobs/mantis/Name=螳螂
-Mobs/mantis/Description=你最好祈祷不成为它的晚餐。
+Mobs/mantis/Description=你最好祈祷你不会成为它的晚餐。
 
 Mobs/termite_baby/Name=白幼蚁
 Mobs/termite_baby/Description=虽软弱无力，却有远大的梦想。<n/>这些生物通过某种方式被连接了起来。
@@ -208,7 +208,7 @@ Mobs/beetle_nazar/Name=甲虫
 Mobs/beetle_nazar/Description=它有一个不一样的图案……这是什么意思？
 
 Mobs/worm/Name=蠕虫
-Mobs/worm/Description=蠕虫本应吃土，它却吃花朵。
+Mobs/worm/Description=蠕虫本应吃土，它却吃花。
 
 Mobs/worm_guts/Name=蠕虫内脏
 Mobs/worm_guts/Description=你不应该看到这个文本，我要报警了！
