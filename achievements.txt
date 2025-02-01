@@ -1,10 +1,10 @@
 Achievements/0/Name=教程
 Achievements/0/Description=稍微移动一下。
-Achievements/0/ExtraDescription=用你的鼠标来移动。你的花朵会自动跟随你的光标。<n/>你也可以在设置中将其调整为键盘移动。<n/><n/>稍微移动一下以继续。
+Achievements/0/ExtraDescription=用你的鼠标来移动，你的花朵会自动跟随你的光标。<n/>你也可以在设置中将其调整为键盘移动。<n/><n/>稍微移动一下以继续。
 
 Achievements/1/Name=教程
 Achievements/1/Description=击杀一个生物。
-Achievements/1/ExtraDescription=那些虫子是你的敌人。消灭它们有概率掉落新的花瓣。<n/><n/>请找到一只并消灭。<n/>你可能会发现，按住鼠标左键来延伸你的花瓣很有用。
+Achievements/1/ExtraDescription=这些昆虫是你的敌人，消灭它们有概率掉落新的花瓣。<n/><n/>请找到一只并消灭。<n/>你可能会发现，按住鼠标左键来延伸你的花瓣很有用。
 
 Achievements/2/Name=教程
 Achievements/2/Description=收集一个花瓣。
@@ -21,7 +21,7 @@ Achievements/4/ExtraDescription=下一步，我们需要很多花瓣。<n/>继�
 
 Achievements/5/Name=教程
 Achievements/5/Description=达到{0}级。
-Achievements/5/ExtraDescription=想要升级，请不断消灭虫子。
+Achievements/5/ExtraDescription=想要升级，请不断消灭昆虫。
 
 Achievements/6/Name=教程
 Achievements/6/Description=使用你的天赋点。
@@ -29,14 +29,14 @@ Achievements/6/ExtraDescription=使用你获得的新天赋点来解锁任意天
 
 Achievements/7/Name=教程
 Achievements/7/Description=收集一些花瓣。
-Achievements/7/ExtraDescription=现在我们需要收集{0}个相同的{#Rarities/{1}/NameColored}花瓣来合成{#Rarities/{2}/Article}{#Rarities/{2}/NameColored}花瓣。<n/>继续消灭虫子，收集更多花瓣。
+Achievements/7/ExtraDescription=现在我们需要收集{0}个相同的{#Rarities/{1}/NameColored}花瓣来合成{#Rarities/{2}/Article}{#Rarities/{2}/NameColored}花瓣。<n/>继续消灭昆虫，收集更多花瓣。
 
 Achievements/8/Name=教程
 Achievements/8/Description=合成一个花瓣。
 Achievements/8/ExtraDescription=现在试着合成你的第一个花瓣。<n/>注意，你可能需要卸下一些花瓣才能有足够的花瓣用来合成。<n/>你需要五个相同的花瓣。<n/><n/>别担心，我们给骰子灌了铅，这次一定会成功。
 
 Achievements/9/Name=教程
-Achievements/9/Description=完成教程。
+Achievements/9/Description=完成新手教程。
 
 Achievements/10/Name=合成师
 Achievements/10/Description=合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}花瓣。
@@ -318,10 +318,10 @@ Achievements/102/Name=薄如纸片
 Achievements/102/Description=死于超过花朵最大生命值的单次伤害。
 
 Achievements/103/Name=纹丝不动
-Achievements/103/Description=出生后在不移动的情况下击杀{#Rarities/{0}/Article}{#Rarities/{0}/Name}。
+Achievements/103/Description=出生后在不移动的情况下击杀{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
 
 Achievements/104/Name=纹丝不动
-Achievements/104/Description=出生后在不移动的情况下击杀{#Rarities/{0}/Article}{#Rarities/{0}/Name}。
+Achievements/104/Description=出生后在不移动的情况下击杀{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
 
 Achievements/105/Name=吸气、呼气
 Achievements/105/Description=多次装卸{#Petals/{0}/Name}。
