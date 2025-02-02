@@ -302,7 +302,7 @@ Petals/card/Name=纸牌
 Petals/card/FullName=纸牌
 Petals/card/Description=一张扑克牌。它似乎被动了手脚。
 
-Petals/moon/Name=月
+Petals/moon/Name=月石
 Petals/moon/FullName=月石
 Petals/moon/Description=这个东西大到能让你的其他花瓣围着它转。<n/>不过，你是在哪里找到它的？
 
@@ -318,7 +318,7 @@ Petals/corruption/Name=腐化
 Petals/corruption/FullName=腐化
 Petals/corruption/Description=腐蚀花朵的灵魂，堕落的自我让他们与同类为敌。
 
-Petals/orb/Name=球
+Petals/orb/Name=魔法球
 Petals/orb/FullName=魔法球
 Petals/orb/Description=创造魔力。
 
@@ -462,11 +462,11 @@ Petals/shovel/Py=chanzi
 Petals/coin/Py=yingbi
 Petals/chip/Py=chouma
 Petals/card/Py=zhipai
-Petals/moon/Py=yue
+Petals/moon/Py=yueshi
 Petals/privet/Py=nvzhen
 Petals/glass/Py=boli
 Petals/corruption/Py=fuhua
-Petals/orb/Py=qiu
+Petals/orb/Py=mofaqiu
 Petals/blueberries/Py=lanmei
 Petals/magic_cotton/Py=mianhua
 Petals/magic_stinger/Py=ci
