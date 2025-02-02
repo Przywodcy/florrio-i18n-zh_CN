@@ -1,4 +1,4 @@
-UI/Language/Name=中文（简体）
+UI/Language/Name=简体中文（中国）
 # These are the translators that worked on this translation. Separate with <n/>
 UI/Language/Credits=CTTN<n/>errosia<n/>Luai2<n/>Nyar_7<n/>XIANGLANGA<n/>XNOR
 
