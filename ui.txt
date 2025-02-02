@@ -1,4 +1,5 @@
 UI/Language/Name=中文（简体）
+# These are the translators that worked on this translation. Separate with <n/>
 UI/Language/Credits=CTTN<n/>errosia<n/>Luai2<n/>Nyar_7<n/>XIANGLANGA<n/>XNOR
 
 UI/Title/Loading=加载中……
@@ -7,8 +8,14 @@ UI/Title/LoggingIn=登录中……
 UI/Title/Ready=准备
 UI/Title/GuestName=游客
 UI/Title/GuestLimitation=您可以在到达{0}级或关联账号后修改名称。
+UI/Title/Name/Title=这朵美丽的小花叫做……
+UI/Title/Name/Rules1=名称必须是由且只能由字母、数字或{2}组合的，并且应该包含{0}到{1}个字符。
+UI/Title/Name/Rules2=必须至少包含{0}个字母或数字字符。
+UI/Title/Name/Rules3=不能包含连续的{0}个字符。
+UI/Title/Name/Rules4=注意：每个玩家的名称是永久且唯一的，一旦确认不能再次更改。
+UI/Title/Name/Button=确定
 UI/Title/Name/Bad=您的名称被重置了，请选择一个新的名称。
-UI/Title/Name/AlreadyTaken=此名称已被取用。
+UI/Title/Name/AlreadyTaken=此名称已被其他人取用。
 UI/Title/Name/InternalError=出现内部错误，请稍后再试。
 
 UI/Title/Biome={#UI/Title/Biome/{0}}
@@ -55,6 +62,9 @@ UI/Chat/PromptClick=点击这里聊天
 UI/Chat/PromptKeyboardOrClick=按下[ENTER]或点击这里聊天
 UI/Chat/Player/Block=屏蔽
 UI/Chat/Player/ReportMessage=举报消息
+UI/Chat/Player/Whisper=发送密语
+UI/Chat/Player/InviteToSquad=邀请至小队
+UI/Chat/Player/InviteToGuild=邀请至公会
 
 UI/Flower/Level={0}级
 
@@ -171,6 +181,7 @@ UI/Talent/Rarity={#Rarities/{1}/Name}
 UI/Talent/TP=天赋点
 UI/Talent/Tooltip=你可以通过升级来获得更多天赋点。
 UI/Talent/Reset=重置
+UI/Talent/HoldToUpgrade=点击并长按以升级
 
 UI/Craft/Title=合成
 UI/Craft/Button=合成
