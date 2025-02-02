@@ -38,7 +38,7 @@ UI/Login/LinkInfo=您可以关联账户从而<n/>在设备间保存您的游戏�
 UI/Login/Linked=已关联
 UI/Login/SupportPIN=支持码：{0}
 UI/Login/SupportPINHidden=支持码：（点击显示）
-UI/Login/SupportPINInstructions1=请保持此识别码以防止您丢失了对账户的访问权限。
+UI/Login/SupportPINInstructions1=请保持此识别码以防止丢失对账户的访问权限。
 UI/Login/SupportPINInstructions2=不要把你的支持码分享给任何人。
 UI/Login/Reminder=请关联账户来保存您的游戏进度。
 
@@ -127,8 +127,8 @@ UI/Shop/Button=商店
 UI/Shop/Instructions=今日特惠：
 UI/Shop/TimeLeft=商店会{0:timeLeft}换新
 UI/Shop/Lock=锁定
-UI/Shop/LockedChanged=在取消锁定后，商店会立即改变。
-UI/Shop/LockedNoChange=锁定商店后，商店不会自行改变。
+UI/Shop/LockedChanged=取消锁定后，商店会立即更新。
+UI/Shop/LockedNoChange=锁定商店后，商店不会自行更新。
 UI/Shop/StarsHelp1=你可以通过完成挑战获得星星，或者你可以
 UI/Shop/StarsHelp2=点击右边的数字购买一些星星。
 UI/Shop/MustLink1=在购买星星之前，你必须首先
@@ -209,7 +209,7 @@ UI/Plinko/Auto=自动
 
 UI/UniqueCraft/Title=锻造
 UI/UniqueCraft/Button=锻造
-UI/UniqueCraft/Instructions=一个唯一的花瓣将保存到另一个玩家锻造出相同的花瓣。<n/>此时将会返还您所消耗的超级花瓣，<n/>每锻造一次唯一花瓣，下一次锻造此唯一花瓣的成本就会增加。
+UI/UniqueCraft/Instructions=唯一品质的花瓣能够保存到另一个玩家锻造出相同的花瓣为止。<n/>此时将会返还您所消耗的超级花瓣，<n/>每锻造一次唯一花瓣，下一次锻造此唯一花瓣的成本就会增加。
 UI/UniqueCraft/NoSupers=你还没有任何超级花瓣可以尝试此操作。
 
 UI/Death/Poison=剧毒
@@ -253,7 +253,7 @@ UI/Settings/LiveIcons=实时花瓣显示
 
 UI/Settings/TouchControls=触摸控制
 
-UI/Settings/KeyboardMovement=键盘移动方式
+UI/Settings/KeyboardMovement=使用键盘移动
 
 UI/Settings/MovementHelper=鼠标移动辅助
 

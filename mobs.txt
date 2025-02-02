@@ -22,7 +22,7 @@ Mobs/ant_soldier/Name=兵蚁
 Mobs/ant_soldier/Description=它有翅膀，并时刻准备着使用它们。
 
 Mobs/ant_queen/Name=蚁后
-Mobs/ant_queen/Description=如果她在追你，你肯定是做了什么坏事。
+Mobs/ant_queen/Description=如果她在追你，你肯定是做了什么天大的坏事。
 
 Mobs/ant_hole/Name=蚁穴
 Mobs/ant_hole/Description=蚂蚁进进又出出，这根本无法解释。
@@ -217,10 +217,10 @@ Mobs/mecha_flower/Name=机械花
 Mobs/mecha_flower/Description=有些人一直在制作这些机械的花朵……这意味着什么？
 
 Mobs/wasp_mecha/Name=胡蜂
-Mobs/wasp_mecha/Description=它们生 机 器（气）了。
+Mobs/wasp_mecha/Description=它们“机” 其 生 气。
 
 Mobs/spider_mecha/Name=蜘蛛
-Mobs/spider_mecha/Description=吓人的机器。
+Mobs/spider_mecha/Description=“机”其吓人。
 
 Mobs/rock/Py=yanshi
 Mobs/cactus/Py=xianrenzhang

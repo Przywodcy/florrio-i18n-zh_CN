@@ -44,7 +44,7 @@ Petals/cactus/Description=它不是很强，但会增加你的生命值上限。
 
 Petals/faster/Name=更快
 Petals/faster/FullName=更快
-Petals/faster/Description=它太轻了，以至于你的花瓣会旋转得更快。
+Petals/faster/Description=它太轻了，以至于会使你的花瓣会旋转得更快。
 
 Petals/bubble/Name=泡泡
 Petals/bubble/FullName=泡泡
@@ -112,7 +112,7 @@ Petals/yucca/Description=仅在花朵处于防御状态时提供治疗。
 
 Petals/magnet/Name=磁铁
 Petals/magnet/FullName=磁铁
-Petals/magnet/Description=增加花朵的拾取范围。
+Petals/magnet/Description=增加花朵的掉落物拾取范围。
 
 Petals/yggdrasil/Name=世界树
 Petals/yggdrasil/FullName=世界树之叶
@@ -144,7 +144,7 @@ Petals/shell/Description=为你或你的队友添加一个临时的护盾。
 
 Petals/cutter/Name=锯齿
 Petals/cutter/FullName=锯齿
-Petals/cutter/Description=一个朋友曾经拥有它……现在是时候复仇了。<n/>增加花朵的{#Flower/Attribute/BodyDamageNoColon}。
+Petals/cutter/Description=它曾经属于一个朋友……现在是时候复仇了。<n/>增加花朵的{#Flower/Attribute/BodyDamageNoColon}。
 
 Petals/dahlia/Name=大丽花
 Petals/dahlia/FullName=大丽花
@@ -152,7 +152,7 @@ Petals/dahlia/Description=为你的花朵提供少量但相当稳定的治疗。
 
 Petals/uranium/Name=铀
 Petals/uranium/FullName=铀
-Petals/uranium/Description=它能够周期性地辐射。<n/>对其他花朵造成的伤害减少75%。<n/>影响强度取决于目标与此花瓣的距离。
+Petals/uranium/Description=它能够周期性释放辐射。<n/>对其他花朵造成的伤害减少75%。<n/>影响强度取决于目标与此花瓣的距离。
 
 Petals/sponge/Name=海绵
 Petals/sponge/FullName=海绵
@@ -356,7 +356,7 @@ Petals/magic_stick/Description=充满魔力的树枝，能动用风的力量。
 
 Petals/coral/Name=珊瑚
 Petals/coral/FullName=珊瑚
-Petals/coral/Description=撞击后分裂。<n/>每一片都有前身50%的属性。
+Petals/coral/Description=撞击后分裂。<n/>每一片的属性为分裂前的50%。
 
 Petals/magic_bubble/Name=泡泡
 Petals/magic_bubble/FullName=魔法泡泡
