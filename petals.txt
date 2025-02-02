@@ -90,8 +90,8 @@ Petals/salt/Name=盐
 Petals/salt/FullName=盐
 Petals/salt/Description=将部分你受到的伤害反弹给造成伤害的敌人。<n/>稀有度越高的生物对伤害反弹的抗性越高。
 
-Petals/rice/Name=大米
-Petals/rice/FullName=大米
+Petals/rice/Name=米
+Petals/rice/FullName=米
 Petals/rice/Description=冷却速度很快，但不是很强。
 
 Petals/corn/Name=玉米
