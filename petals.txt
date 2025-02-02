@@ -272,7 +272,7 @@ Petals/talisman/Description=一条能让佩戴者闪避敌人攻击的神秘项�
 
 Petals/battery/Name=电池
 Petals/battery/FullName=电池
-Petals/battery/Description=让你的花朵一触即电，充满电性。
+Petals/battery/Description=在花朵受到伤害时释放闪电。
 
 Petals/amulet/Name=护符
 Petals/amulet/FullName=护符
@@ -312,7 +312,7 @@ Petals/privet/Description=在已存在的{#Attribute/PoisonNoColon}伤害/秒的
 
 Petals/glass/Name=玻璃
 Petals/glass/FullName=玻璃
-Petals/glass/Description=相位穿梭，越过敌人。能够在穿越敌人时不被摧毁。<n/>在一定间隔内只能伤害敌人一次。
+Petals/glass/Description=能够穿透敌人而不被摧毁。<n/>在一定间隔内只能伤害敌人一次。
 
 Petals/corruption/Name=腐化
 Petals/corruption/FullName=腐化
@@ -348,7 +348,7 @@ Petals/magic_eye/Description=消耗当前魔力值的一半并基于这个值造
 
 Petals/magic_missile/Name=导弹
 Petals/magic_missile/FullName=魔法导弹
-Petals/magic_missile/Description=你可以将其发射出去……伴随着魔法。
+Petals/magic_missile/Description=你可以将其发射出去……但要用魔法。
 
 Petals/magic_stick/Name=树枝
 Petals/magic_stick/FullName=魔法树枝
