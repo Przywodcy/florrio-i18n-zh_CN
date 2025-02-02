@@ -216,10 +216,10 @@ Mobs/worm_guts/Description=你不应该看到这个文本，我要报警了！
 Mobs/mecha_flower/Name=机械花
 Mobs/mecha_flower/Description=有些人一直在制作这些机械的花朵……这意味着什么？
 
-Mobs/wasp_mecha/Name=机械胡蜂
+Mobs/wasp_mecha/Name=胡蜂
 Mobs/wasp_mecha/Description=它们生 机 器（气）了。
 
-Mobs/spider_mecha/Name=机械蜘蛛
+Mobs/spider_mecha/Name=蜘蛛
 Mobs/spider_mecha/Description=吓人的机器。
 
 Mobs/rock/Py=yanshi
@@ -292,5 +292,5 @@ Mobs/beetle_nazar/Py=jiachong
 Mobs/worm/Py=ruchong
 Mobs/worm_guts/Py=ruchongneizang
 Mobs/mecha_flower/Py=jixiehua
-Mobs/wasp_mecha/Py=jixiehufeng
-Mobs/spider_mecha/Py=jixiezhizhu
+Mobs/wasp_mecha/Py=hufeng
+Mobs/spider_mecha/Py=zhizhu
