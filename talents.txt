@@ -214,10 +214,10 @@ Talents/reach2/Description={#Talents/reach/Description}
 Talents/reach3/Name={#Talents/reach/Name}
 Talents/reach3/Description={#Talents/reach/Description}
 
-Talents/second_chance1/Name=第二次机会
+Talents/second_chance1/Name=不死金身
 Talents/second_chance1/Description=在受到致命伤害后避免死亡，并且在其后{0:tooltip}秒内避免所有伤害，冷却时间为{1:tooltip}秒。
 
-Talents/second_chance2/Name=第二次机会
+Talents/second_chance2/Name=不死金身
 Talents/second_chance2/Description=在原有基础上，将无敌状态持续时间提高到{0:tooltip}秒，冷却时间减少到{1:tooltip}秒。
 
 Talents/magnetism/Name=磁性
