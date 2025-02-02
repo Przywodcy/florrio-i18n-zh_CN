@@ -233,10 +233,10 @@ Achievements/73/Description=把{0}朵花送进冥界。
 Achievements/74/Name=起死回生
 Achievements/74/Description=被复活。
 
-Achievements/75/Name=是日救星
+Achievements/75/Name=救死扶伤
 Achievements/75/Description=复活一朵花。
 
-Achievements/76/Name=是日救星
+Achievements/76/Name=救死扶伤
 Achievements/76/Description=复活{0}朵花。
 
 Achievements/77/Name=上帝视角
