@@ -306,7 +306,7 @@ Petals/moon/Name=月石
 Petals/moon/FullName=月石
 Petals/moon/Description=这个东西大到能让你的其他花瓣围着它转。<n/>不过，你是在哪里找到它的？
 
-Petals/privet/Name=女贞
+Petals/privet/Name=女贞子
 Petals/privet/FullName=女贞子
 Petals/privet/Description=在已存在的{#Attribute/PoisonNoColon}伤害/秒的基础上造成额外的{#Attribute/PoisonNoColon}伤害。
 
