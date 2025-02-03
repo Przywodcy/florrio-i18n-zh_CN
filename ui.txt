@@ -147,6 +147,12 @@ UI/Shop/Loyalty/Title=感谢！
 UI/Shop/Loyalty/Instructions=对于您支持我们的感谢，<n/>我们想免费给您一些星星。<n/><n/>这些星星的数量取决于您之前花费的金额，<n/>它们的价格与您花费的金额相同，但是是用更大的套餐优惠来计算的。
 UI/Shop/Price/USD={0}美元
 
+UI/Banned/Title=已封禁
+UI/Banned/Instructions=你的账户已被封禁。
+UI/Banned/TimeLeft=此封禁会{0:timeLeft}解除。
+UI/Banned/Permanent=此封禁是永久的。
+UI/Banned/Account=账户ID： {0}
+
 UI/DailyChallenge/Title=挑战
 UI/DailyChallenge/Button=挑战
 UI/DailyChallenge/Instructions=击败这些生物：
