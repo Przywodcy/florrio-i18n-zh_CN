@@ -125,7 +125,7 @@ UI/Squad/Error/Full=Squad is full
 UI/Shop/Title=Shop
 UI/Shop/Button=Shop
 UI/Shop/Instructions=Today's offers:
-UI/Shop/TimeLeft=Store will change {0:timeLeft}
+UI/Shop/TimeLeft=Store will change {0:time:left}
 UI/Shop/Lock=Lock
 UI/Shop/LockedChanged=Store will change once unlocked.
 UI/Shop/LockedNoChange=Store will not change while locked.
@@ -149,14 +149,14 @@ UI/Shop/Price/USD=${0}
 
 UI/Banned/Title=BANNED
 UI/Banned/Instructions=Your account has been banned.
-UI/Banned/TimeLeft=This ban will expire {0:timeLeft}.
+UI/Banned/TimeLeft=This ban will expire {0:time:left}.
 UI/Banned/Permanent=This ban is permanent.
 UI/Banned/Account=Account: {0}
 
 UI/DailyChallenge/Title=Challenge
 UI/DailyChallenge/Button=Challenge
 UI/DailyChallenge/Instructions=Defeat these enemies:
-UI/DailyChallenge/TimeLeft=Challenges will change {0:timeLeft}
+UI/DailyChallenge/TimeLeft=Challenges will change {0:time:left}
 UI/DailyChallenge/Claimed=Claimed
 UI/DailyChallenge/SupportersOnly=Challenge available<n/>for supporters only.
 
@@ -203,12 +203,12 @@ UI/Absorb/Instructions=Absorb petals to gain XP<n/><c val="{#Colors/danger}">WAR
 UI/CoinCraft/Title=Trade
 UI/CoinCraft/Button=Trade
 UI/CoinCraft/Instructions=You can trade a petal for a coin of the same rarity
-UI/CoinCraft/Delay=You'll be able to trade again {0:timeLeft}
+UI/CoinCraft/Delay=You'll be able to trade again {0:time:left}
 
 UI/OracleCraft/Title=Oracle
 UI/OracleCraft/Button=Craft
 UI/OracleCraft/Instructions=The Oracle will guarantee a craft... for the right price.
-UI/OracleCraft/Delay=You'll be able to craft again {0:timeLeft}
+UI/OracleCraft/Delay=You'll be able to craft again {0:time:left}
 
 UI/Plinko/Title=Plinko
 UI/Plinko/Auto=Auto
