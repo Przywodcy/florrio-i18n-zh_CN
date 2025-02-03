@@ -24,7 +24,7 @@ Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0}被{2}、{3}、{4}和{5}击败了
 Chat/Revived={0}复活了你。
 Chat/Marked={0}标记了你。
 
-Chat/Muted=由于你过去发送过不当消息，你现在不被允许聊天。<n/>你可以{0:timeLeft}再次聊天。
+Chat/Muted=由于你过去发送过不当消息，你现在不被允许聊天。<n/>你可以{0:time:left}再次聊天。
 Chat/Spam=你做得太频繁了。
 Chat/Alone=周围没人能听到你说话。
 Chat/Banned=你目前已被封禁，因此无法继续游玩。
@@ -36,7 +36,7 @@ Chat/GuildChannelDisabled=你已关闭公会聊天。
 Chat/GuestTooChatty=抱歉，游客账户在达到{0}级前聊天权限有限。
 Chat/PlayerReported=已举报玩家。
 Chat/PlayerBlocked=已屏蔽{0}。
-Chat/ServerClosing=此服务器计划{0:timeLeft}关闭。
+Chat/ServerClosing=此服务器计划{0:time:left}关闭。
 Chat/ServerClosed=服务器已关闭，该离开了。
 Chat/ServerNoLongerClosing=服务器不再计划关闭。
 
