@@ -151,7 +151,7 @@ UI/Banned/Title=已封禁
 UI/Banned/Instructions=你的账户已被封禁。
 UI/Banned/TimeLeft=此封禁会{0:time:left}解除。
 UI/Banned/Permanent=此封禁是永久的。
-UI/Banned/Account=账户ID： {0}
+UI/Banned/Account=账户ID：{0}
 
 UI/DailyChallenge/Title=挑战
 UI/DailyChallenge/Button=挑战
