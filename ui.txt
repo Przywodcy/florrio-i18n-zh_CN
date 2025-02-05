@@ -131,7 +131,7 @@ UI/Squad/Error/Full=该小队已满。
 UI/Shop/Title=商店
 UI/Shop/Button=商店
 UI/Shop/Instructions=今日特惠：
-UI/Shop/TimeLeft=商店会{0:timeLeft}换新
+UI/Shop/TimeLeft=商店会{0:time:left}换新
 UI/Shop/Lock=锁定
 UI/Shop/LockedChanged=取消锁定后，商店会立即更新。
 UI/Shop/LockedNoChange=锁定商店后，商店不会自行更新。
@@ -155,14 +155,14 @@ UI/Shop/Price/USD={0}美元
 
 UI/Banned/Title=已封禁
 UI/Banned/Instructions=你的账户已被封禁。
-UI/Banned/TimeLeft=此封禁会{0:timeLeft}解除。
+UI/Banned/TimeLeft=此封禁会{0:time:left}解除。
 UI/Banned/Permanent=此封禁是永久的。
-UI/Banned/Account=账户ID： {0}
+UI/Banned/Account=账户ID：{0}
 
 UI/DailyChallenge/Title=挑战
 UI/DailyChallenge/Button=挑战
 UI/DailyChallenge/Instructions=击败这些生物：
-UI/DailyChallenge/TimeLeft=挑战会{0:timeLeft}换新
+UI/DailyChallenge/TimeLeft=挑战会{0:time:left}换新
 UI/DailyChallenge/Claimed=已领取
 UI/DailyChallenge/SupportersOnly=此挑战只对<n/>支持者开放
 
@@ -209,12 +209,12 @@ UI/Absorb/Instructions=吸收不同品质的花瓣可以获得不同数量的经
 UI/CoinCraft/Title=交易
 UI/CoinCraft/Button=交易
 UI/CoinCraft/Instructions=你可以给商人一片花瓣来换一枚同样品质的硬币。
-UI/CoinCraft/Delay=你可以{0:timeLeft}继续交易。
+UI/CoinCraft/Delay=你可以{0:time:left}继续交易。
 
 UI/OracleCraft/Title=神谕
 UI/OracleCraft/Button=合成
 UI/OracleCraft/Instructions=神谕者会用一个合适的价格来保证一次合成的成功。
-UI/OracleCraft/Delay=你可以{0:timeLeft}继续合成。
+UI/OracleCraft/Delay=你可以{0:time:left}继续合成。
 
 UI/Plinko/Title=弹珠游戏
 UI/Plinko/Auto=自动
