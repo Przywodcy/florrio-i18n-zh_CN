@@ -25,7 +25,7 @@ Achievements/5/ExtraDescription=To level up, just keep destroying some insects.
 
 Achievements/6/Name=Tutorial
 Achievements/6/Description=Use your talent point.
-Achievements/6/ExtraDescription=Use this new talent point you got to unlock any talent.<n/><n/>Remember you need to click and HOLD to upgrade a talent."
+Achievements/6/ExtraDescription=Use this new talent point you got to unlock any talent.<n/><n/>Remember you need to click and HOLD to upgrade a talent.
 
 Achievements/7/Name=Tutorial
 Achievements/7/Description=Collect some petals.
