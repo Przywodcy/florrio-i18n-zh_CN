@@ -91,6 +91,9 @@ UI/Achievements/Track=Track
 UI/Achievements/TrackAutomatically=Track automatically
 UI/Achievements/Hidden=???
 UI/Achievements/TotalProgress={0}/{1} completed
+UI/Achievements/UnlockedNotification={#UI/Achievements/UnlockedNotification/{0:1orN}}
+UI/Achievements/UnlockedNotification/1=Achievement unlocked
+UI/Achievements/UnlockedNotification/N=Achievements unlocked
 
 UI/MobGallery/Title=Mob Gallery
 
