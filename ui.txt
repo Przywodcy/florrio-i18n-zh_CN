@@ -269,6 +269,8 @@ UI/Settings/KeyboardMovement=Keyboard movement
 
 UI/Settings/MovementHelper=Movement helper
 
+UI/Settings/AutoSearchPetals=Search petals when opening inventory
+
 UI/Settings/FixedJoystick=Fixed joystick
 
 UI/Settings/AutoSaveLoadout=Auto-save loadout
