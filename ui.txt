@@ -213,7 +213,7 @@ UI/CoinCraft/Delay=你可以{0:time:left}继续交易。
 
 UI/OracleCraft/Title=神谕
 UI/OracleCraft/Button=合成
-UI/OracleCraft/Instructions=神谕者会用一个合适的价格来保证一次合成的成功。
+UI/OracleCraft/Instructions=神使会用一个合适的价格来保证一次合成的成功。
 UI/OracleCraft/Delay=你可以{0:time:left}继续合成。
 
 UI/Plinko/Title=弹珠游戏

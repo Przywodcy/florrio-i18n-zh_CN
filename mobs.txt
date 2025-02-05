@@ -197,7 +197,7 @@ Mobs/gambler/Name=赌徒
 Mobs/gambler/Description=<s val="1.5">你</s>也有可能会变成这样。
 Mobs/gambler/Spawn=耳畔旁，微微回荡着不知源头的飘渺呢喃…… “最后……就最后一注……”
 
-Mobs/oracle/Name=神谕者
+Mobs/oracle/Name=神使
 
 Mobs/firefly_magic/Name=萤火虫
 Mobs/firefly_magic/Description=这只萤火虫有一种神奇的魔力。
