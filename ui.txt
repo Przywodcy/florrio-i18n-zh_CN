@@ -269,6 +269,8 @@ UI/Settings/KeyboardMovement=使用键盘移动
 
 UI/Settings/MovementHelper=鼠标移动辅助
 
+UI/Settings/AutoSearchPetals=打开背包时自动搜索花瓣
+
 UI/Settings/FixedJoystick=固定摇杆
 
 UI/Settings/AutoSaveLoadout=自动保存装备
