@@ -137,25 +137,25 @@ Talents/reload1/Name=冷却
 Talents/reload1/Description=将花瓣的冷却时间减少{0:perc}%<n/>同时将交换花瓣时的最小冷却时间从{3}秒减少至{2}秒。
 
 Talents/reload2/Name=冷却
-Talents/reload2/Description=将花瓣的冷却时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小冷却时间从{3}秒减少至{2}秒。
+Talents/reload2/Description=将花瓣减少的冷却时间从{1:perc}%提高到{0:perc}%<n/>同时将交换花瓣时的最小冷却时间从{3}秒减少至{2}秒。
 
 Talents/reload3/Name=冷却
-Talents/reload3/Description=将花瓣的冷却时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小冷却时间从{3}秒减少至{2}秒。
+Talents/reload3/Description=将花瓣减少的冷却时间从{1:perc}%提高到{0:perc}%<n/>同时将交换花瓣时的最小冷却时间从{3}秒减少至{2}秒。
 
 Talents/reload4/Name=冷却
-Talents/reload4/Description=将花瓣的冷却时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小冷却时间从{3}秒减少至{2}秒。
+Talents/reload4/Description=将花瓣减少的冷却时间从{1:perc}%提高到{0:perc}%<n/>同时将交换花瓣时的最小冷却时间从{3}秒减少至{2}秒。
 
 Talents/reload5/Name=冷却
-Talents/reload5/Description=将花瓣的冷却时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小冷却时间从{3}秒减少至{2}秒。
+Talents/reload5/Description=将花瓣减少的冷却时间从{1:perc}%提高到{0:perc}%<n/>同时将交换花瓣时的最小冷却时间从{3}秒减少至{2}秒。
 
 Talents/reload6/Name=冷却
-Talents/reload6/Description=将花瓣的冷却时间从{1:perc}%减少到{0:perc}%。
+Talents/reload6/Description=将花瓣减少的冷却时间从{1:perc}%提高到{0:perc}%。
 
 Talents/reload7/Name=冷却
-Talents/reload7/Description=将花瓣的冷却时间从{1:perc}%减少到{0:perc}%。
+Talents/reload7/Description=将花瓣减少的冷却时间从{1:perc}%提高到{0:perc}%。
 
 Talents/reload8/Name=冷却
-Talents/reload8/Description=将花瓣的冷却时间从{1:perc}%减少到{0:perc}%。
+Talents/reload8/Description=将花瓣减少的冷却时间从{1:perc}%提高到{0:perc}%。
 
 Talents/body_damage/Name=锋利边缘
 Talents/body_damage/Description=提高花朵{0:perc}%的{#Flower/Attribute/BodyDamageNoColon}。
