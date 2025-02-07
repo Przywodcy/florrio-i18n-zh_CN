@@ -3,7 +3,7 @@
 
 February 6th 2025
 	- Eggs now only spawn mobs when they break.
-	- Sandstorms now phases through non-flower entities (still deals damage normally).
+	- Sandstorm now phases through non-flower entities (still deals damage normally).
 
 January 16th 2025
 	- Mobile now has loadouts. Hold X and you can switch loadouts by tapping the secondary petal slots. Each loadout uses the first petal in the loadout as its icon.
