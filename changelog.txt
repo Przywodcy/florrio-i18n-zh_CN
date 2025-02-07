@@ -2,7 +2,7 @@
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
 February 6th 2025
-	- Eggs now only spawn mobs when they break
+	- Eggs now only spawn mobs when they break.
 	- Sandstorms now phases through non-flower entities (still deals damage normally).
 
 January 16th 2025
