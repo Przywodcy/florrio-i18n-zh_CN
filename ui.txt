@@ -104,6 +104,7 @@ UI/Inventory/Title=Inventory
 UI/Inventory/Stack=Stack
 UI/Inventory/Instructions=Drag a petal to equip it
 UI/Inventory/Speed=Speed
+UI/Inventory/Rarity={#UI/Petal/Rarity}
 
 UI/Guild/Title=Guild
 UI/Guild/NoGuild=You don't have a guild yet
