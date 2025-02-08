@@ -278,6 +278,7 @@ UI/Settings/AutoSearchPetals=Search petals when opening inventory
 UI/Settings/FixedJoystick=Fixed joystick
 
 UI/Settings/AutoSaveLoadout=Auto-save loadout
+UI/Settings/AutoSaveLoadout/Help=If disabled, press [O] to save current loadout
 
 UI/Settings/PrivacyPolicy=Privacy Policy
 UI/Settings/TermsOfService=Terms of Service
