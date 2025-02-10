@@ -306,7 +306,7 @@ Achievements/98/Name=不劳而获
 Achievements/98/Description=在不对一个生物造成任何伤害的情况下获得其击杀经验。
 
 Achievements/99/Name=不劳而获
-Achievements/99/Description=在不对{#Rarities/{0}/Article}{#Rarities/{0}/Name}造成任何伤害的情况下获得其击杀经验。
+Achievements/99/Description=在不对{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物造成任何伤害的情况下获得其击杀经验。
 
 Achievements/100/Name=幸运之子
 Achievements/100/Description=连续成功合成花瓣{0}次。
