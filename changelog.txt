@@ -2,7 +2,7 @@
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
 2025年2月6日
-	- 现在卵只会在破裂时孵化
+	- 现在卵只会在破裂时孵化。
 	- 沙尘暴会穿透非玩家生物（仍然正常地造成伤害）。
 
 2025年1月16日
