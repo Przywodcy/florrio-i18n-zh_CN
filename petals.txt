@@ -44,7 +44,7 @@ Petals/cactus/Description=它不是很强，但会增加你的生命值上限。
 
 Petals/faster/Name=更快
 Petals/faster/FullName=更快
-Petals/faster/Description=它太轻了，以至于会使你的花瓣会旋转得更快。
+Petals/faster/Description=它太轻了，以至于会使你的花瓣旋转得更快。
 
 Petals/bubble/Name=泡泡
 Petals/bubble/FullName=泡泡
@@ -60,7 +60,7 @@ Petals/dandelion/Description=它可以抑制生物的自身治疗效果，<n/>�
 
 Petals/beetle_egg/Name=卵
 Petals/beetle_egg/FullName=甲虫卵
-Petals/beetle_egg/Description=一些有趣的东西很有可能从中出现。
+Petals/beetle_egg/Description=看起来有有趣的东西要从这里钻出来了。
 
 Petals/antennae/Name=触角
 Petals/antennae/FullName=触角
@@ -200,7 +200,7 @@ Petals/orange/Description=一种美味的柑橘类水果。
 
 Petals/ant_egg/Name=卵
 Petals/ant_egg/FullName=蚁卵
-Petals/ant_egg/Description=一些有趣的东西很有可能从中出现。
+Petals/ant_egg/Description=看起来有有趣的东西要从这里钻出来了。
 
 Petals/poo/Name=便便
 Petals/poo/FullName=便便
@@ -240,7 +240,7 @@ Petals/tomato/Description=随着时间的推移，会变得越来越强大。
 
 Petals/mark/Name=标记
 Petals/mark/FullName=暗黑标记
-Petals/mark/Description=黑暗的印记与堕落的灵魂紧紧相连。
+Petals/mark/Description=如此黑暗的印记与陨落的灵魂紧紧相连。
 
 Petals/rubber/Name=橡胶
 Petals/rubber/FullName=橡胶
@@ -312,7 +312,7 @@ Petals/privet/Description=在已存在的{#Attribute/PoisonNoColon}伤害/秒的
 
 Petals/glass/Name=玻璃
 Petals/glass/FullName=玻璃
-Petals/glass/Description=能够穿透敌人而不被摧毁。<n/>在一定间隔内只能伤害敌人一次。
+Petals/glass/Description=能够穿透敌人而不被摧毁。<n/>在一定时间内只能伤害敌人一次。
 
 Petals/corruption/Name=腐化
 Petals/corruption/FullName=腐化

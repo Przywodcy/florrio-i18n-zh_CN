@@ -256,8 +256,8 @@ Talents/poison8/Description={#Talents/poison/Description}
 Talents/concentrated_poison/Name=集中剧毒
 Talents/concentrated_poison/Description=在增加{#Attribute/PoisonNoColon}每秒伤害{0:perc}%的同时，<n/>减少{#Attribute/PoisonNoColon}持续时间{1:perc}%。
 
-Talents/duplicator/Name=有丝分裂
-Talents/duplicator/Description=为至少分为{0:tooltip}部分的花瓣添加额外的一个部分。
+Talents/duplicator/Name=重瓣
+Talents/duplicator/Description=为至少有{0:tooltip}个副本的花瓣添加额外的一个副本。
 
 Talents/antennae1/Name=触角
 Talents/antennae1/Description=使视野范围增加{0:perc}%。
