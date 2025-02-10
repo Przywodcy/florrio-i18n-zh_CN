@@ -182,17 +182,6 @@ UI/Bonus/AvailableExpiration=进度条会在你不启用加成的{0:time}后重�
 UI/Bonus/Activate=启用
 UI/Bonus/Activate/Setting=自动启用加成
 
-UI/Bonus/Title=Bonus
-UI/Bonus/Button=Bonus
-UI/Bonus/Instructions=Earn bonus drops
-UI/Bonus/Pill/Label={0}x
-UI/Bonus/Delay=You can activate your bonus again in {0:time}
-UI/Bonus/CurrentlyActive=Your bonus is active for {0:time}
-UI/Bonus/Available=You can activate your bonus now. It will last {0:time}.
-UI/Bonus/AvailableExpiration=If you do not activate your bonus, it will reset in {0:time}.
-UI/Bonus/Activate=Activate
-UI/Bonus/Activate/Setting=Activate automatically
-
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Py}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
