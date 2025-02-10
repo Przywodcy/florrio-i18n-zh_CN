@@ -410,7 +410,7 @@ Achievements/132/Description=通过交易获得{#Rarities/{0:rarity}/Article}{#R
 Achievements/133/Name=赌徒
 Achievements/133/Description=在弹珠游戏中投入{0}个筹码。
 
-Achievements/134/Name=头 奖 ！
+Achievements/134/Name=头奖！
 Achievements/134/Description=在弹珠游戏里中大奖。
 
 Achievements/135/Name=豪客
@@ -424,6 +424,9 @@ Achievements/137/Description=通过神谕合成{#Rarities/{0}/Article}{#Rarities
 
 Achievements/138/Name=魔法师
 Achievements/138/Description=装备{#Petals/{0}/Name}。
+
+Achievements/139/Name=鸿运当头
+Achievements/139/Description=通过装备{#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name}获得额外的一份掉落物。
 
 Achievements/0/Py=jiaocheng
 Achievements/1/Py=jiaocheng
@@ -564,3 +567,4 @@ Achievements/135/Py=haoke
 Achievements/136/Py=quanzhizhe
 Achievements/137/Py=cinaitianming
 Achievements/138/Py=mofashi
+Achievements/139/Py=hongyundangtou
