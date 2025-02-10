@@ -104,6 +104,7 @@ UI/Inventory/Title=背包
 UI/Inventory/Stack=同种花瓣堆叠
 UI/Inventory/Instructions=拖动花瓣以装备
 UI/Inventory/Speed=转速
+UI/Inventory/Rarity={#UI/Petal/Rarity}
 
 UI/Guild/Title=公会
 UI/Guild/NoGuild=你还没有加入一个公会
@@ -168,6 +169,29 @@ UI/DailyChallenge/Instructions=击败这些生物：
 UI/DailyChallenge/TimeLeft=挑战会{0:time:left}换新
 UI/DailyChallenge/Claimed=已领取
 UI/DailyChallenge/SupportersOnly=此挑战只对<n/>支持者开放
+
+
+UI/Bonus/Title=加成
+UI/Bonus/Button=加成
+UI/Bonus/Instructions=获得更多掉落物
+UI/Bonus/Pill/Label={0}倍
+UI/Bonus/Delay=你可以在{0:time}后继续启用加成
+UI/Bonus/CurrentlyActive=你的加成当前持续时间还剩下{0:time}。
+UI/Bonus/Available=你现在可以启用一次持续时间为{0:time}的加成。
+UI/Bonus/AvailableExpiration=进度条会在你不启用加成的{0:time}后重置。
+UI/Bonus/Activate=启用
+UI/Bonus/Activate/Setting=自动启用加成
+
+UI/Bonus/Title=Bonus
+UI/Bonus/Button=Bonus
+UI/Bonus/Instructions=Earn bonus drops
+UI/Bonus/Pill/Label={0}x
+UI/Bonus/Delay=You can activate your bonus again in {0:time}
+UI/Bonus/CurrentlyActive=Your bonus is active for {0:time}
+UI/Bonus/Available=You can activate your bonus now. It will last {0:time}.
+UI/Bonus/AvailableExpiration=If you do not activate your bonus, it will reset in {0:time}.
+UI/Bonus/Activate=Activate
+UI/Bonus/Activate/Setting=Activate automatically
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Py}
@@ -277,6 +301,7 @@ UI/Settings/AutoSearchPetals=打开背包时自动搜索花瓣
 UI/Settings/FixedJoystick=固定摇杆
 
 UI/Settings/AutoSaveLoadout=自动保存装备
+UI/Settings/AutoSaveLoadout/Help=可以在禁用后按[O]保存当前装备
 
 UI/Settings/PrivacyPolicy=隐私政策
 UI/Settings/TermsOfService=服务条款
