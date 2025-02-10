@@ -426,7 +426,7 @@ Achievements/138/Name=魔法师
 Achievements/138/Description=装备{#Petals/{0}/Name}。
 
 Achievements/139/Name=鸿运当头
-Achievements/139/Description=通过装备{#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name}获得额外的一份掉落物。
+Achievements/139/Description=通过装备{#Rarities/{0:rarity}/Name}品质的{#Petals/{0:base}/Name}获得额外的掉落物。
 
 Achievements/0/Py=jiaocheng
 Achievements/1/Py=jiaocheng
