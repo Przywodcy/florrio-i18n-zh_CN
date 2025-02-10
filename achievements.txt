@@ -63,10 +63,10 @@ Achievements/17/Name=安慰奖
 Achievements/17/Description=合成花瓣失败，并损失{0}个花瓣。
 
 Achievements/18/Name=安慰奖
-Achievements/18/Description=合成{#Rarities/{1}/Article}{#Rarities/{1}/Name}花瓣失败，并损失{0}个花瓣。
+Achievements/18/Description=合成{#Rarities/{1}/Article}{#Rarities/{1}/Name}品质的花瓣失败，并损失{0}个花瓣。
 
 Achievements/19/Name=安慰奖
-Achievements/19/Description=合成{#Rarities/{1}/Article}{#Rarities/{1}/Name}花瓣失败，并损失{0}个花瓣。
+Achievements/19/Description=合成{#Rarities/{1}/Article}{#Rarities/{1}/Name}品质的花瓣失败，并损失{0}个花瓣。
 
 Achievements/20/Name=挖掘者
 Achievements/20/Description=装备{#Petals/cutter/Name}。
@@ -264,25 +264,25 @@ Achievements/84/Name=连环杀手
 Achievements/84/Description=在彼此间隔不超过{1:time}的情况下，连续消灭{0}个生物。
 
 Achievements/85/Name=锐不可当
-Achievements/85/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高的生物。
+Achievements/85/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高稀有度的生物。
 
 Achievements/86/Name=锐不可当
-Achievements/86/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高的生物。
+Achievements/86/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高稀有度的生物。
 
 Achievements/87/Name=锐不可当
-Achievements/87/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高的生物。
+Achievements/87/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高稀有度的生物。
 
 Achievements/88/Name=锐不可当
-Achievements/88/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高的生物。
+Achievements/88/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高稀有度的生物。
 
 Achievements/89/Name=锐不可当
-Achievements/89/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高的生物。
+Achievements/89/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高稀有度的生物。
 
 Achievements/90/Name=锐不可当
-Achievements/90/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高的生物。
+Achievements/90/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高稀有度的生物。
 
 Achievements/91/Name=锐不可当
-Achievements/91/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高的生物。
+Achievements/91/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高稀有度的生物。
 
 Achievements/92/Name=谁才是假人？
 Achievements/92/Description=死于{#Mobs/{0}/Name}。
@@ -297,7 +297,7 @@ Achievements/95/Name=黄金猎人
 Achievements/95/Description=在{1:time}内消灭{0}个闪亮瓢虫。
 
 Achievements/96/Name=超级猎人
-Achievements/96/Description=消灭{0}个{#Rarities/{1}/Name}生物。
+Achievements/96/Description=消灭{0}个{#Rarities/{1}/Name}稀有度的生物。
 
 Achievements/97/Name=自我牺牲
 Achievements/97/Description=在复活某人后的{0:time}内死亡。
@@ -354,7 +354,7 @@ Achievements/114/Name=赛车手
 Achievements/114/Description=在{0:time}内，依次访问花园、沙漠、丛林、海洋并回到花园。
 
 Achievements/115/Name=生物学家
-Achievements/115/Description=在不死亡的情况下，消灭{0}种不同类型的{#Rarities/{1}/Name}或更高的生物。
+Achievements/115/Description=在不死亡的情况下，消灭{0}种不同类型的{#Rarities/{1}/Name}或更高稀有度的生物。
 
 Achievements/116/Name=一无是处
 Achievements/116/Description=死于{0}种不同类型的生物。
@@ -384,13 +384,13 @@ Achievements/124/Name=深仇大恨
 Achievements/124/Description=在不死亡的情况下，连续消灭{0}个同种类型的生物。
 
 Achievements/125/Name=深仇大恨
-Achievements/125/Description=在不死亡的情况下，连续消灭{0}个同种类型的{#Rarities/{1}/Name}或更高的生物。
+Achievements/125/Description=在不死亡的情况下，连续消灭{0}个同种类型的{#Rarities/{1}/Name}或更高稀有度的生物。
 
 Achievements/126/Name=深仇大恨
-Achievements/126/Description=在不死亡的情况下，连续消灭{0}个同种类型的{#Rarities/{1}/Name}或更高的生物。
+Achievements/126/Description=在不死亡的情况下，连续消灭{0}个同种类型的{#Rarities/{1}/Name}或更高稀有度的生物。
 
 Achievements/127/Name=深仇大恨
-Achievements/127/Description=在不死亡的情况下，连续消灭{0}个同种类型的{#Rarities/{1}/Name}或更高的生物。
+Achievements/127/Description=在不死亡的情况下，连续消灭{0}个同种类型的{#Rarities/{1}/Name}或更高稀有度的生物。
 
 Achievements/128/Name=报仇雪恨
 Achievements/128/Description=消灭击杀了你的生物。
@@ -402,10 +402,10 @@ Achievements/130/Name=成交
 Achievements/130/Description=通过交易获得一个{#Petals/{0:base}/Name}。
 
 Achievements/131/Name=成交
-Achievements/131/Description=通过交易获得{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}{#Petals/{0:base}/Name}。
+Achievements/131/Description=通过交易获得{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}品质的{#Petals/{0:base}/Name}。
 
 Achievements/132/Name=成交
-Achievements/132/Description=通过交易获得{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}{#Petals/{0:base}/Name}。
+Achievements/132/Description=通过交易获得{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}品质的{#Petals/{0:base}/Name}。
 
 Achievements/133/Name=赌徒
 Achievements/133/Description=在弹珠游戏中投入{0}个筹码。
@@ -414,13 +414,13 @@ Achievements/134/Name=头奖！
 Achievements/134/Description=在弹珠游戏里中大奖。
 
 Achievements/135/Name=豪客
-Achievements/135/Description=在弹珠游戏中投入{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}或更高的{#Petals/{0:base}/Name}。
+Achievements/135/Description=在弹珠游戏中投入{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}或更高品质的{#Petals/{0:base}/Name}。
 
 Achievements/136/Name=全知者
 Achievements/136/Description=通过神谕合成一个花瓣。
 
 Achievements/137/Name=此乃天命
-Achievements/137/Description=通过神谕合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}或更高的花瓣。
+Achievements/137/Description=通过神谕合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}或更高品质的花瓣。
 
 Achievements/138/Name=魔法师
 Achievements/138/Description=装备{#Petals/{0}/Name}。
