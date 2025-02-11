@@ -175,10 +175,11 @@ UI/Bonus/Button=加成
 UI/Bonus/Instructions=获得额外掉落物
 UI/Bonus/Instructions2=你可以在每天游玩的第一个小时中获得额外掉落物。
 UI/Bonus/Pill/Label={0}倍
-UI/Bonus/Delay=你可以在{0:time}后再次启用加成
-UI/Bonus/CurrentlyActive=你的当前加成持续时间还剩下{0:time}
+UI/Bonus/Delay=你可以在{0:time}后再次启用加成。
+UI/Bonus/CurrentlyActive=你的当前加成持续时间还剩下{0:time}。
 UI/Bonus/Available=你现在可以启用一次持续时间为{0:time}的加成。
 UI/Bonus/AvailableExpiration=若在{0:time}后仍不启用下一次加成，当前的进度条会立即重置。
+UI/Bonus/AutoDelay=你的下一次加成会在{0:time}后启用。
 UI/Bonus/Activate=启用
 UI/Bonus/Activate/Setting=自动启用加成
 
@@ -201,6 +202,7 @@ UI/Achievements/Name={#Achievements/{0}/Name:1-}
 UI/Achievements/SortName={#Achievements/{0}/Py:1-}
 UI/Achievements/Description={#Achievements/{0}/Description:1-}
 UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
+UI/Achievements/Rarity={#UI/Petal/Rarity}
 
 UI/Talent/Title=天赋
 UI/Talent/Name={#Talents/{0}/Name:1-}
