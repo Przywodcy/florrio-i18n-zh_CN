@@ -386,6 +386,10 @@ Petals/mecha_missile/Name=导弹
 Petals/mecha_missile/FullName=机械导弹
 Petals/mecha_missile/Description=锁定目标。
 
+Petals/wax/Name=蜂蜡
+Petals/wax/FullName=蜂蜡
+Petals/wax/Description=别问它是从哪里来的。
+
 Petals/basic/Py=jiben
 Petals/light/Py=qing
 Petals/rock/Py=yanshi
@@ -483,3 +487,4 @@ Petals/mjolnir/Py={#Petals/mjolnir/{0:rarity:is-unique}/Py}
 Petals/mjolnir/not-unique/Py=suipian
 Petals/mjolnir/unique/Py=leishenzhichui
 Petals/mecha_missile/Py=daodan
+Petals/wax/Py=fengla
