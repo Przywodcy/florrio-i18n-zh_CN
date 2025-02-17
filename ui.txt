@@ -291,6 +291,9 @@ UI/Settings/AutoSearchPetals=打开背包时自动搜索花瓣
 
 UI/Settings/FixedJoystick=固定摇杆
 
+UI/Settings/InvertAttack=反转攻击控制
+UI/Settings/InvertDefend=反转防御控制
+
 UI/Settings/AutoSaveLoadout=自动保存装备
 UI/Settings/AutoSaveLoadout/Help=可以在禁用后按[O]保存当前装备
 
