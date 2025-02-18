@@ -378,11 +378,11 @@ Achievements/91/Py=ruibukedang
 
 Achievements/92/Name=谁才是假人？
 Achievements/92/Description=死于{#Mobs/{0}/Name}。
-Achievements/92/Py=sheicaishi
+Achievements/92/Py=sheicaishijiaren
 
 Achievements/93/Name=赶尽杀绝
 Achievements/93/Description=在{1:time}内消灭{0}个生物。
-Achievements/93/Py=zhongzudatusha
+Achievements/93/Py=ganjinshajue
 
 Achievements/94/Name=腰缠万贯
 Achievements/94/Description=在{1:time}内拾取{0}个掉落物。
