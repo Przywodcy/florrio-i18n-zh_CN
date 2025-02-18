@@ -106,5 +106,5 @@ Petal/Attribute/DamageAbsorptionPerMana=<c val="{#Colors/generic}">伤害吸收�
 Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">闪电：</c>{0:tooltip}/<c val="{#Colors/mana}">魔力</c>
 Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">生成消耗：</c>{0:tooltip}<c val="{#Colors/mana}">魔力</c>
 Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">维持消耗：</c>{0:tooltip}<c val="{#Colors/mana}">魔力</c>/秒
-Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">携带后有{0:perc}%的概率可以从生物上获得额外的一份掉落物</c>
-Petal/Attribute/Reload=<c val="{#Colors/generic}">冷却时间：</c> -{0:perc}%
+Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">携带后有{0:perc}%的概率可以从生物获得额外的一份掉落物</c>
+Petal/Attribute/Reload=<c val="{#Colors/generic}">冷却时间：</c>-{0:perc}%
