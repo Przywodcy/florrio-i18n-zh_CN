@@ -67,7 +67,7 @@ Chat/Command/unblock-all/Args=
 Chat/Command/unblock-all/Description=移除对屏蔽列表中所有人的屏蔽
 
 Chat/Command/rot-speed/Args=<value>
-Chat/Command/rot-speed/Description=设置花瓣旋转速度，从0.0到1.0
+Chat/Command/rot-speed/Description=设置花瓣旋转速度，数值必须为从0.0到1.0之间的一个数
 
 Chat/Command/print-players/Args=
 Chat/Command/print-players/Description=列出附近玩家的账号ID

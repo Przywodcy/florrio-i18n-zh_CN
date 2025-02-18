@@ -487,3 +487,8 @@ Petals/wax/Name=蜂蜡
 Petals/wax/FullName=蜂蜡
 Petals/wax/Description=别问它是从哪里来的。
 Petals/wax/Py=fengla
+
+Petals/golden_leaf/Name=叶子
+Petals/golden_leaf/FullName=黄金之叶
+Petals/golden_leaf/Description=非常特殊的叶子，似乎能让你的花瓣获得新的节奏。
+Petals/golden_leaf/Py=yezi
