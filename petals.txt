@@ -1,6 +1,6 @@
 Petals/basic/Name=基本
 Petals/basic/FullName=基本
-Petals/basic/Description=一个不错的花瓣，不是很强也不是很弱。
+Petals/basic/Description=不错的花瓣，不是很强也不是很弱。
 Petals/basic/Py=jiben
 
 Petals/light/Name=轻
@@ -45,7 +45,7 @@ Petals/missile/Py=daodan
 
 Petals/grapes/Name=葡萄
 Petals/grapes/FullName=葡萄
-Petals/grapes/Description=“嘭”地爆开；现在有了一个额外的秘密成分：剧毒。
+Petals/grapes/Description=“嘭”地爆开；现在有了额外的秘密成分：剧毒。
 Petals/grapes/Py=putao
 
 Petals/cactus/Name=仙人掌
@@ -175,7 +175,7 @@ Petals/claw/Py=zhuazi
 
 Petals/shell/Name=贝壳
 Petals/shell/FullName=贝壳
-Petals/shell/Description=为你或你的队友添加一个临时的护盾。
+Petals/shell/Description=为你或你的队友添加临时的护盾。
 Petals/shell/Py=beike
 
 Petals/cutter/Name=锯齿
@@ -405,7 +405,7 @@ Petals/orb/Py=mofaqiu
 
 Petals/blueberries/Name=蓝莓
 Petals/blueberries/FullName=蓝莓
-Petals/blueberries/Description=“嘭”地爆开；现在有了一个额外的秘密成分：闪电。
+Petals/blueberries/Description=“嘭”地爆开；现在有了额外的秘密成分：闪电。
 Petals/blueberries/Py=lanmei
 
 Petals/magic_cotton/Name=棉花
