@@ -8,6 +8,7 @@ UI/Title/LoggingIn=登录中……
 UI/Title/Ready=开始
 UI/Title/GuestName=游客
 UI/Title/GuestLimitation=您可以在到达{0}级或关联账号后修改名称。
+UI/Title/LockedInHel=你被暗黑标记束缚，在{0:time}内无法离开冥界。
 UI/Title/Name/Title=这朵美丽的小花叫做……
 UI/Title/Name/Rules1=名称必须是由且只能由字母、数字或{2}组合的，并且应该包含{0}到{1}个字符。
 UI/Title/Name/Rules2=必须至少包含{0}个字母或数字字符。

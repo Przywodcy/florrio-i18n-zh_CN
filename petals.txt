@@ -492,3 +492,13 @@ Petals/golden_leaf/Name=叶子
 Petals/golden_leaf/FullName=黄金之叶
 Petals/golden_leaf/Description=非常特殊的叶子，似乎能让你的花瓣获得新的节奏。
 Petals/golden_leaf/Py=yezi
+
+Petals/cog/Name=齿轮
+Petals/cog/FullName=齿轮
+Petals/cog/Description=它似乎什么用也没有……
+Petals/cog/Py=chilun
+
+Petals/monstera/Name=龟背竹
+Petals/monstera/FullName=龟背竹
+Petals/monstera/Description=治疗它周围的花朵。<n/>距离此花瓣越远治疗效果越弱。
+Petals/monstera/Py=guibeizhu
