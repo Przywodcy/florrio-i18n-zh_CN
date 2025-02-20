@@ -20,7 +20,7 @@ Petals/square/Py=zhengfangxing
 
 Petals/rose/Name=玫瑰
 Petals/rose/FullName=玫瑰
-Petals/rose/Description=治疗属性非常惊人，战斗时却差强人意。
+Petals/rose/Description=治疗属性非常惊人，不过在战斗时就没那么好用了。
 Petals/rose/Py=meigui
 
 Petals/stinger/Name=刺
@@ -474,7 +474,7 @@ Petals/mjolnir/not-unique/Description=也许这能锻造出一些神秘的东西
 Petals/mjolnir/not-unique/Py=suipian
 
 Petals/mjolnir/unique/Name=雷神之锤
-Petals/mjolnir/unique/FullName=雷神之捶
+Petals/mjolnir/unique/FullName=雷神之锤
 Petals/mjolnir/unique/Description=整个宇宙中最强大的锤子。
 Petals/mjolnir/unique/Py=leishenzhichui
 
