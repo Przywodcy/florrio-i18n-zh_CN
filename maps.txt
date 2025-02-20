@@ -6,9 +6,9 @@ Maps/ant_hole3/Name=白蚁丘
 Maps/ant_hole4/Name=白蚁丘
 Maps/ant_hole5/Name=白蚁丘
 
-Maps/battle_ground/Name=战地
-
 Maps/desert/Name=沙漠
+
+Maps/factory/Name=工厂
 
 Maps/garden/Name=花园
 
