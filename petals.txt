@@ -502,3 +502,8 @@ Petals/monstera/Name=龟背竹
 Petals/monstera/FullName=龟背竹
 Petals/monstera/Description=治疗它周围的花朵。<n/>距离此花瓣越远治疗效果越弱。
 Petals/monstera/Py=guibeizhu
+
+Petals/mecha_antennae/Name=触角
+Petals/mecha_antennae/FullName=机械触角
+Petals/mecha_antennae/Description=允许你的花朵感知更远的敌人。<n/>它的顶端额外配备了红色的警示灯。
+Petals/mecha_antennae/Py=chujiao
