@@ -15,6 +15,8 @@ Mob/Attribute/HealthRange=<c val="{#Colors/health}">生命值：</c>{0:tooltip}�
 Mob/Attribute/HealthNoColon=<c val="{#Colors/health}">生命值</c>
 Mob/Attribute/Damage=<c val="{#Colors/damage}">伤害：</c>{0:tooltip}
 Mob/Attribute/Damage/Lightning=<c val="{#Colors/damage}">伤害：</c>{0:tooltip}<c val="{#Colors/lightning}">（闪电）</c>
+Mob/Attribute/DamagePerSecond=<c val="{#Colors/damage}">伤害：</c>{0:tooltip}/秒
+Mob/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">伤害：</c>{0:tooltip}/秒<c val="{#Colors/lightning}">（闪电）</c>
 Mob/Attribute/Armor=<c val="{#Colors/armor}">护甲：</c>{0:tooltip}
 Mob/Attribute/Poison=<c val="{#Colors/poison}">剧毒：</c>{0:tooltip}（{1:tooltip}/秒）
 Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">剧毒：</c>{0:tooltip}/秒
@@ -42,6 +44,8 @@ Petal/Attribute/Health=<c val="{#Colors/health}">耐久：</c>{0:tooltip}
 Petal/Attribute/Damage=<c val="{#Colors/damage}">伤害：</c>{0:tooltip}
 Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">伤害：</c>{0:tooltip}<c val="{#Colors/lightning}">（闪电）</c>
 Petal/Attribute/DamageRange=<c val="{#Colors/damage}">伤害：</c>{0:tooltip}～{1:tooltip}
+Petal/Attribute/DamagePerSecond=<c val="{#Colors/damage}">伤害：</c>{0:tooltip}/秒
+Petal/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">伤害：</c> {0:tooltip}/秒<c val="{#Colors/lightning}">（闪电）</c>
 Petal/Attribute/Armor=<c val="{#Colors/armor}">护甲：</c>{0:tooltip}
 Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">旋转速度：</c>+{0:tooltip}弧度/秒
 Petal/Attribute/Heal=<c val="{#Colors/heal}">治疗：</c>{0:tooltip}
@@ -109,4 +113,4 @@ Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">维持消耗：</
 Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">携带后有{0:perc}%的概率可以从生物获得额外的一份掉落物</c>
 Petal/Attribute/Reload=<c val="{#Colors/generic}">冷却时间：</c>-{0:perc}%
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">被标记者将在冥界被困{0:time}。</c>
-Petal/Attribute/Controls=<c val="{#Colors/generic}">激活制导：</c> {#Petals/{0:base}/FullName}({#Rarities/{0:rarity}/NameColored})
+Petal/Attribute/Controls=<c val="{#Colors/generic}">激活制导：</c>{#Petals/{0:base}/FullName}（{#Rarities/{0:rarity}/NameColored}）
