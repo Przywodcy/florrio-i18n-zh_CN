@@ -45,7 +45,7 @@ Petal/Attribute/Damage=<c val="{#Colors/damage}">伤害：</c>{0:tooltip}
 Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">伤害：</c>{0:tooltip}<c val="{#Colors/lightning}">（闪电）</c>
 Petal/Attribute/DamageRange=<c val="{#Colors/damage}">伤害：</c>{0:tooltip}～{1:tooltip}
 Petal/Attribute/DamagePerSecond=<c val="{#Colors/damage}">伤害：</c>{0:tooltip}/秒
-Petal/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">伤害：</c> {0:tooltip}/秒<c val="{#Colors/lightning}">（闪电）</c>
+Petal/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">伤害：</c>{0:tooltip}/秒<c val="{#Colors/lightning}">（闪电）</c>
 Petal/Attribute/Armor=<c val="{#Colors/armor}">护甲：</c>{0:tooltip}
 Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">旋转速度：</c>+{0:tooltip}弧度/秒
 Petal/Attribute/Heal=<c val="{#Colors/heal}">治疗：</c>{0:tooltip}
