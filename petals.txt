@@ -511,4 +511,4 @@ Petals/mecha_antennae/Py=chujiao
 Petals/laser/Name=激光器
 Petals/laser/FullName=激光器
 Petals/laser/Description=咻咻——
-Petals/laser/Py=jiguangbi
+Petals/laser/Py=jiguangqi
