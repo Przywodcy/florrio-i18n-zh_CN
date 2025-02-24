@@ -301,3 +301,9 @@ Mobs/leafbug_shiny/Py=yechong
 Mobs/crab_mecha/Name=螃蟹
 Mobs/crab_mecha/Description=蟹博士。
 Mobs/crab_mecha/Py=pangxie
+
+Mobs/assembler/Name=重组机
+Mobs/assembler/Description= 
+
+Mobs/barrel/Name=铀桶
+Mobs/barrel/Description=严禁以任何形式使其内容物泄露。<n/>绝不能在本月再次发生昆虫突变事故。
