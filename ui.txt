@@ -245,7 +245,7 @@ UI/UniqueCraft/NoSupers=你还没有任何超级花瓣可以尝试此操作。
 
 UI/AssemblerCraft/Title=重组
 UI/AssemblerCraft/Button=重组
-UI/AssemblerCraft/Instructions=将特定花瓣重构为全新形态。
+UI/AssemblerCraft/Instructions=将一些特定的花瓣重构为一个全新形态。
 
 UI/Death/Poison=剧毒
 
