@@ -169,6 +169,13 @@ Chat/Oracle/Prediction/0=诚然如此预言……料不久便会应验……
 Chat/Oracle/Prediction/1=早有预言，应验之刻……
 Chat/Oracle/Prediction/2=吾待此际久矣……
 
+Chat/Oracle/ShopPrediction/No=晦蒙迷幻，天机深隐，弗能预察
+Chat/Oracle/ShopPrediction/Distance0=近在咫尺
+Chat/Oracle/ShopPrediction/Distance1=不日即至
+Chat/Oracle/ShopPrediction/Distance2=终有应时
+Chat/Oracle/ShopPrediction/Distance3=命数本自幽渺，难可揣度
+Chat/Oracle/ShopPrediction/Request=神谕在上，圣意昭示，请为吾预示{#Rarities/{0:rarity}/Name}{#Petals/{0:base}/FullName}之运程。
+
 # Target dummy says these 4 lines 1 second apart after getting damaged a lot
 Chat/TargetDummy/Damaged/1=哎哟
 Chat/TargetDummy/Damaged/2=我是说
