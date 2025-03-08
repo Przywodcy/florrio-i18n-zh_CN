@@ -455,7 +455,7 @@ Petals/magic_bubble/Py=paopao
 
 Petals/nazar/Name=邪眼
 Petals/nazar/FullName=邪眼护符
-Petals/nazar/Description=将花朵受到的一次伤害降低98%。
+Petals/nazar/Description=将花朵受到的伤害降低98%。
 Petals/nazar/Py=xieyan
 
 Petals/mimic/Name=拟态
@@ -512,3 +512,8 @@ Petals/laser/Name=激光器
 Petals/laser/FullName=激光器
 Petals/laser/Description=咻咻——
 Petals/laser/Py=jiguangqi
+
+Petals/domino/Name=骨牌
+Petals/domino/FullName=多米诺骨牌
+Petals/domino/Description=伤害取决于它有多少点。
+Petals/domino/Py=gupai
