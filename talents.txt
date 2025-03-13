@@ -1,5 +1,5 @@
 Talents/crafting/Name=合成
-Talents/crafting/Description=解锁合成<c val=“{0:rarity:color}”>{#Rarities/{0:rarity}/Name}</c>花瓣的能力。
+Talents/crafting/Description=解锁合成<c val=“{#Colors/{0:rarity}}”>{#Rarities/{0:rarity}/Name}</c>花瓣的能力。
 
 Talents/crafting_unusual/Name={#Talents/crafting/Name}
 Talents/crafting_unusual/Description={#Talents/crafting/Description}
