@@ -517,3 +517,8 @@ Petals/domino/Name=骨牌
 Petals/domino/FullName=多米诺骨牌
 Petals/domino/Description=伤害取决于它有多少点。
 Petals/domino/Py=gupai
+
+Petals/bandage/Name=绷带
+Petals/bandage/FullName=绷带
+Petals/bandage/Description=临死时，花朵会进入 <c val="{#Colors/undead}">亡灵</c> 状态一段时间。<n/>使用后在一定时间内不能复活。
+Petals/bandage/Py=bengdai
